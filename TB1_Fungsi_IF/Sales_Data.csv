@@ -1,0 +1,1001 @@
+Product_ID,Sale_Date,Sales_Rep,Region,Sales_Amount,Quantity_Sold,Product_Category,Unit_Cost,Unit_Price,Customer_Type,Discount,Payment_Method,Sales_Channel
+1000,27/05/2023,Budi Santoso,Timur,3550.24,36,Food,125.18,198.10,Returning,0.00,Cash,Retail
+1001,14/07/2023,Ahmad Fauzan,Barat,239.52,44,Furniture,164.42,244.57,New,0.02,Cash,Retail
+1002,13/07/2023,Siti Aisyah,Barat,8384.87,27,Clothing,225.58,298.52,Returning,0.01,Credit Card,Online
+1003,17/07/2023,Dewi Lestari,Barat,9793.15,12,Electronics,288.28,352.93,Returning,0.09,Cash,Online
+1004,23/02/2023,Ahmad Fauzan,Barat,9407.67,19,Food,210.39,343.97,New,0.12,Credit Card,Online
+1005,19/11/2023,Ahmad Fauzan,Barat,1516.03,32,Food,198.79,276.99,Returning,0.11,Bank Transfer,Retail
+1006,10/07/2023,Rizky Pratama,Timur,3450.02,45,Furniture,212.48,319.08,New,0.15,Bank Transfer,Online
+1007,08/11/2023,Budi Santoso,Barat,7492.29,36,Food,119.25,235.69,New,0.27,Credit Card,Retail
+1008,28/12/2023,Rizky Pratama,Timur,8342.14,12,Clothing,214.77,302.72,New,0.16,Bank Transfer,Retail
+1009,14/11/2023,Ahmad Fauzan,Utara,1108.14,18,Clothing,159.21,254.49,Returning,0.21,Bank Transfer,Retail
+1010,27/11/2023,Rizky Pratama,Barat,5572.34,18,Electronics,441.57,477.30,Returning,0.00,Credit Card,Online
+1011,09/12/2023,Dewi Lestari,Barat,8628.81,18,Electronics,325.71,372.48,New,0.01,Bank Transfer,Retail
+1012,27/11/2023,Dewi Lestari,Selatan,8219.32,8,Clothing,190.83,247.08,New,0.01,Bank Transfer,Online
+1013,25/09/2023,Dewi Lestari,Timur,6370.08,8,Electronics,287.13,362.73,New,0.09,Bank Transfer,Retail
+1014,07/09/2023,Ahmad Fauzan,Timur,5466.58,18,Clothing,198.52,248.55,Returning,0.06,Bank Transfer,Retail
+1015,17/09/2023,Siti Aisyah,Selatan,3808.67,8,Clothing,401.58,440.84,New,0.09,Credit Card,Retail
+1016,27/08/2023,Siti Aisyah,Utara,9633.99,18,Clothing,215.75,285.80,Returning,0.25,Credit Card,Retail
+1017,11/08/2023,Rizky Pratama,Utara,9578.94,18,Furniture,350.47,429.08,New,0.28,Cash,Online
+1018,17/01/2023,Dewi Lestari,Selatan,3787.23,18,Furniture,168.41,237.95,New,0.16,Credit Card,Retail
+1019,10/09/2023,Rizky Pratama,Timur,1556.22,8,Furniture,347.14,409.66,Returning,0.23,Bank Transfer,Retail
+1020,25/09/2023,Budi Santoso,Barat,2536.39,12,Clothing,273.20,319.21,New,0.00,Credit Card,Online
+1021,22/08/2023,Rizky Pratama,Utara,4007.44,12,Electronics,313.88,362.63,Returning,0.03,Bank Transfer,Online
+1022,23/07/2023,Dewi Lestari,Timur,2829.81,12,Clothing,526.61,572.17,Returning,0.03,Bank Transfer,Online
+1023,14/04/2023,Siti Aisyah,Timur,1519.84,12,Clothing,494.80,526.15,New,0.12,Cash,Online
+1024,17/10/2023,Rizky Pratama,Timur,8307.00,12,Electronics,502.21,549.60,New,0.08,Bank Transfer,Retail
+1025,12/01/2023,Rizky Pratama,Barat,8884.52,6,Furniture,510.08,534.57,New,0.12,Credit Card,Online
+1026,15/04/2023,Budi Santoso,Barat,5007.16,12,Food,290.18,313.47,Returning,0.22,Cash,Online
+1027,24/08/2023,Budi Santoso,Utara,7981.02,12,Food,358.98,385.89,New,0.20,Credit Card,Online
+1028,07/05/2023,Ahmad Fauzan,Selatan,1394.67,12,Clothing,481.39,526.34,Returning,0.26,Cash,Retail
+1029,09/11/2023,Dewi Lestari,Timur,3558.57,12,Food,417.92,450.62,New,0.16,Cash,Retail
+1030,07/12/2023,Siti Aisyah,Utara,174.09,12,Furniture,225.39,334.37,New,0.00,Credit Card,Online
+1031,01/04/2023,Siti Aisyah,Selatan,1084.33,18,Furniture,273.74,340.72,Returning,0.01,Bank Transfer,Retail
+1032,02/07/2023,Siti Aisyah,Timur,5858.11,12,Electronics,175.49,282.17,Returning,0.01,Cash,Online
+1033,14/01/2023,Siti Aisyah,Timur,4261.66,17,Clothing,278.15,415.66,New,0.10,Credit Card,Online
+1034,17/02/2023,Budi Santoso,Utara,2310.06,27,Clothing,243.15,353.08,Returning,0.08,Cash,Online
+1035,11/06/2023,Dewi Lestari,Utara,9730.49,48,Food,229.45,359.86,New,0.13,Credit Card,Online
+1036,03/11/2023,Ahmad Fauzan,Selatan,9225.38,12,Furniture,179.88,311.54,New,0.22,Cash,Retail
+1037,29/12/2023,Siti Aisyah,Utara,1553.99,12,Electronics,102.33,192.24,Returning,0.20,Bank Transfer,Retail
+1038,01/01/2023,Siti Aisyah,Selatan,5775.99,12,Furniture,115.68,201.83,Returning,0.19,Bank Transfer,Retail
+1039,28/08/2023,Budi Santoso,Utara,724.49,33,Food,208.23,338.85,Returning,0.16,Bank Transfer,Retail
+1040,05/06/2023,Siti Aisyah,Barat,2482.17,14,Clothing,397.58,454.35,New,0.00,Cash,Online
+1041,11/10/2023,Budi Santoso,Barat,2972.82,18,Food,171.47,240.19,New,0.02,Cash,Online
+1042,02/07/2023,Ahmad Fauzan,Barat,2057.86,18,Food,185.68,265.09,Returning,0.03,Credit Card,Retail
+1043,12/12/2023,Budi Santoso,Barat,7505.08,12,Electronics,255.84,291.44,New,0.07,Cash,Online
+1044,09/02/2023,Dewi Lestari,Utara,5400.22,16,Food,446.95,494.48,New,0.10,Credit Card,Online
+1045,30/06/2023,Ahmad Fauzan,Barat,1367.64,18,Furniture,297.37,345.85,Returning,0.05,Credit Card,Retail
+1046,06/11/2023,Siti Aisyah,Selatan,1870.96,8,Furniture,418.31,476.32,Returning,0.17,Cash,Retail
+1047,10/10/2023,Dewi Lestari,Barat,1033.18,18,Clothing,200.54,248.41,New,0.26,Credit Card,Online
+1048,25/08/2023,Siti Aisyah,Barat,2452.87,18,Clothing,329.62,409.58,Returning,0.18,Cash,Retail
+1049,27/04/2023,Dewi Lestari,Selatan,6690.29,8,Furniture,262.69,331.72,Returning,0.22,Credit Card,Retail
+1050,22/09/2023,Siti Aisyah,Utara,6158.54,12,Electronics,442.80,489.23,New,0.00,Cash,Online
+1051,22/07/2023,Budi Santoso,Utara,6243.97,12,Clothing,482.50,518.32,New,0.03,Cash,Retail
+1052,24/08/2023,Dewi Lestari,Barat,2723.89,12,Furniture,306.16,330.14,Returning,0.03,Credit Card,Online
+1053,12/04/2023,Ahmad Fauzan,Utara,1675.31,12,Clothing,310.83,326.84,Returning,0.11,Cash,Online
+1054,14/06/2023,Siti Aisyah,Timur,5336.62,12,Furniture,431.46,468.52,Returning,0.12,Bank Transfer,Retail
+1055,04/02/2023,Budi Santoso,Barat,4595.58,12,Clothing,215.72,255.83,New,0.12,Cash,Online
+1056,05/03/2023,Siti Aisyah,Timur,1844.97,5,Clothing,539.80,571.95,New,0.15,Credit Card,Online
+1057,13/11/2023,Rizky Pratama,Selatan,4845.63,12,Food,454.42,484.88,Returning,0.23,Bank Transfer,Retail
+1058,19/10/2023,Ahmad Fauzan,Selatan,376.39,12,Furniture,408.68,429.72,New,0.21,Cash,Retail
+1059,10/12/2023,Siti Aisyah,Barat,7723.00,12,Furniture,439.76,478.92,Returning,0.16,Bank Transfer,Retail
+1060,21/03/2023,Siti Aisyah,Utara,3339.32,31,Furniture,189.03,321.99,Returning,0.00,Bank Transfer,Online
+1061,10/06/2023,Rizky Pratama,Barat,7303.94,12,Electronics,250.81,351.19,Returning,0.04,Bank Transfer,Retail
+1062,29/06/2023,Siti Aisyah,Barat,885.55,37,Electronics,185.07,262.28,New,0.02,Cash,Online
+1063,03/11/2023,Siti Aisyah,Utara,6663.30,48,Clothing,212.21,336.33,New,0.09,Bank Transfer,Retail
+1064,14/08/2023,Siti Aisyah,Selatan,5847.47,45,Furniture,111.63,226.06,Returning,0.10,Cash,Retail
+1065,23/04/2023,Rizky Pratama,Timur,1940.72,12,Electronics,137.23,231.81,New,0.06,Bank Transfer,Online
+1066,26/03/2023,Dewi Lestari,Timur,1848.55,27,Food,253.54,378.19,New,0.30,Cash,Retail
+1067,16/03/2023,Budi Santoso,Utara,5686.66,27,Furniture,127.86,205.10,New,0.25,Cash,Online
+1068,02/11/2023,Siti Aisyah,Timur,6715.01,16,Furniture,228.07,291.81,Returning,0.19,Credit Card,Retail
+1069,23/02/2023,Ahmad Fauzan,Selatan,4328.60,12,Furniture,268.89,343.92,Returning,0.20,Bank Transfer,Retail
+1070,05/12/2023,Budi Santoso,Timur,3330.41,8,Electronics,236.93,285.43,Returning,0.00,Cash,Retail
+1071,11/05/2023,Rizky Pratama,Barat,3862.62,18,Electronics,386.17,421.41,Returning,0.01,Bank Transfer,Online
+1072,27/09/2023,Budi Santoso,Timur,9819.99,9,Food,283.31,359.77,Returning,0.03,Bank Transfer,Online
+1073,29/01/2023,Ahmad Fauzan,Barat,8177.64,16,Food,226.88,287.19,New,0.11,Bank Transfer,Retail
+1074,20/01/2023,Ahmad Fauzan,Utara,1190.25,15,Electronics,360.59,437.88,New,0.09,Bank Transfer,Retail
+1075,09/11/2023,Budi Santoso,Utara,4371.84,12,Electronics,100.00,200.00,New,0.13,Credit Card,Retail
+1076,10/06/2023,Ahmad Fauzan,Utara,5998.95,18,Furniture,288.98,366.06,Returning,0.22,Credit Card,Retail
+1077,12/03/2023,Siti Aisyah,Utara,4444.03,18,Food,424.08,490.09,Returning,0.24,Cash,Online
+1078,24/02/2023,Dewi Lestari,Timur,8223.10,18,Clothing,344.78,409.42,Returning,0.20,Bank Transfer,Retail
+1079,25/09/2023,Dewi Lestari,Barat,350.56,18,Furniture,204.03,253.24,Returning,0.17,Cash,Online
+1080,25/08/2023,Rizky Pratama,Selatan,9283.64,12,Clothing,465.19,510.97,Returning,0.00,Cash,Retail
+1081,20/03/2023,Ahmad Fauzan,Utara,2399.60,12,Clothing,221.01,258.74,Returning,0.03,Cash,Online
+1082,05/07/2023,Ahmad Fauzan,Selatan,2875.44,12,Furniture,373.11,402.24,New,0.03,Cash,Online
+1083,24/10/2023,Budi Santoso,Barat,7601.93,12,Clothing,447.13,469.69,Returning,0.10,Cash,Retail
+1084,29/01/2023,Ahmad Fauzan,Selatan,5852.37,12,Food,592.57,625.97,Returning,0.10,Bank Transfer,Online
+1085,11/11/2023,Siti Aisyah,Timur,8945.36,12,Food,401.54,436.93,New,0.08,Credit Card,Online
+1086,28/10/2023,Ahmad Fauzan,Utara,491.25,12,Food,533.47,570.48,New,0.16,Credit Card,Online
+1087,26/10/2023,Siti Aisyah,Utara,1080.19,12,Clothing,400.62,439.58,New,0.25,Cash,Online
+1088,28/10/2023,Dewi Lestari,Utara,1325.13,10,Furniture,423.73,466.79,New,0.28,Bank Transfer,Retail
+1089,19/10/2023,Rizky Pratama,Selatan,3325.80,12,Clothing,511.11,560.06,New,0.22,Cash,Online
+1090,10/09/2023,Ahmad Fauzan,Timur,8240.48,34,Clothing,217.09,291.08,Returning,0.00,Bank Transfer,Online
+1091,26/09/2023,Rizky Pratama,Utara,7190.13,32,Food,138.03,242.12,New,0.03,Cash,Retail
+1092,30/04/2023,Ahmad Fauzan,Utara,3225.48,15,Food,247.96,378.19,New,0.03,Bank Transfer,Online
+1093,03/04/2023,Dewi Lestari,Utara,1878.45,37,Food,259.59,391.78,New,0.05,Credit Card,Online
+1094,25/02/2023,Ahmad Fauzan,Timur,8481.08,12,Clothing,145.61,275.55,Returning,0.09,Cash,Retail
+1095,09/09/2023,Budi Santoso,Timur,2500.53,48,Furniture,140.74,274.61,New,0.06,Credit Card,Retail
+1096,28/03/2023,Rizky Pratama,Utara,8330.00,29,Food,108.92,196.63,Returning,0.27,Credit Card,Online
+1097,02/12/2023,Siti Aisyah,Utara,2163.94,33,Clothing,255.92,325.07,New,0.25,Bank Transfer,Retail
+1098,09/05/2023,Budi Santoso,Utara,7697.31,18,Clothing,260.44,369.64,New,0.28,Credit Card,Online
+1099,04/08/2023,Budi Santoso,Selatan,1655.39,40,Electronics,196.59,324.29,Returning,0.21,Credit Card,Retail
+1100,09/03/2023,Siti Aisyah,Utara,8357.99,12,Electronics,120.00,230.00,Returning,0.00,Bank Transfer,Online
+1101,10/01/2023,Budi Santoso,Barat,9912.24,18,Electronics,280.05,319.49,New,0.02,Bank Transfer,Retail
+1102,05/02/2023,Dewi Lestari,Utara,6427.21,18,Electronics,323.78,396.53,New,0.02,Credit Card,Online
+1103,18/04/2023,Rizky Pratama,Timur,6677.80,11,Clothing,299.70,372.53,Returning,0.07,Cash,Online
+1104,03/03/2023,Siti Aisyah,Selatan,759.23,8,Clothing,397.14,440.93,New,0.10,Bank Transfer,Online
+1105,10/06/2023,Dewi Lestari,Selatan,320.20,18,Furniture,152.26,196.57,New,0.12,Cash,Retail
+1106,03/02/2023,Budi Santoso,Utara,833.45,18,Clothing,231.12,288.65,Returning,0.28,Credit Card,Retail
+1107,29/07/2023,Siti Aisyah,Barat,8827.56,8,Food,168.84,223.57,Returning,0.16,Cash,Retail
+1108,01/10/2023,Ahmad Fauzan,Timur,6904.78,18,Food,233.35,310.14,New,0.22,Cash,Online
+1109,10/08/2023,Siti Aisyah,Timur,6076.48,18,Electronics,356.57,400.10,New,0.23,Credit Card,Online
+1110,15/07/2023,Ahmad Fauzan,Utara,4910.32,12,Electronics,245.50,269.52,New,0.00,Credit Card,Retail
+1111,19/02/2023,Dewi Lestari,Barat,4019.88,12,Food,520.51,549.79,Returning,0.02,Credit Card,Online
+1112,17/02/2023,Siti Aisyah,Timur,2292.63,12,Food,351.91,397.15,Returning,0.04,Credit Card,Online
+1113,11/10/2023,Siti Aisyah,Utara,3124.40,12,Electronics,342.87,372.82,Returning,0.10,Credit Card,Retail
+1114,23/04/2023,Budi Santoso,Barat,4233.02,12,Furniture,553.76,583.57,New,0.08,Cash,Retail
+1115,12/07/2023,Siti Aisyah,Utara,8107.79,11,Furniture,394.37,441.75,Returning,0.05,Bank Transfer,Online
+1116,10/06/2023,Dewi Lestari,Selatan,3835.05,12,Furniture,503.96,531.07,Returning,0.19,Credit Card,Retail
+1117,07/11/2023,Siti Aisyah,Timur,7949.99,12,Electronics,248.75,280.06,New,0.28,Bank Transfer,Retail
+1118,26/11/2023,Ahmad Fauzan,Selatan,9941.74,5,Furniture,558.83,573.98,New,0.15,Credit Card,Retail
+1119,21/08/2023,Dewi Lestari,Utara,9826.06,12,Furniture,531.66,562.08,New,0.29,Bank Transfer,Online
+1120,09/12/2023,Dewi Lestari,Selatan,6093.13,50,Food,230.71,291.62,Returning,0.00,Bank Transfer,Online
+1121,21/12/2023,Siti Aisyah,Barat,537.42,12,Electronics,115.45,198.64,Returning,0.01,Credit Card,Online
+1122,27/09/2023,Ahmad Fauzan,Selatan,1824.19,27,Clothing,217.41,283.25,New,0.04,Bank Transfer,Retail
+1123,29/08/2023,Budi Santoso,Selatan,6185.50,50,Furniture,234.72,295.67,New,0.06,Bank Transfer,Retail
+1124,29/01/2023,Budi Santoso,Barat,8996.14,27,Clothing,183.59,279.77,Returning,0.13,Bank Transfer,Retail
+1125,24/10/2023,Budi Santoso,Barat,8859.55,41,Furniture,124.10,188.27,New,0.09,Cash,Retail
+1126,12/08/2023,Budi Santoso,Barat,6648.02,12,Clothing,173.81,250.21,New,0.26,Cash,Online
+1127,05/11/2023,Budi Santoso,Utara,858.75,12,Food,167.46,241.42,Returning,0.23,Credit Card,Retail
+1128,20/10/2023,Siti Aisyah,Utara,5173.36,17,Electronics,259.56,374.20,New,0.18,Cash,Online
+1129,10/12/2023,Ahmad Fauzan,Utara,899.52,33,Electronics,280.02,354.88,Returning,0.28,Credit Card,Online
+1130,15/06/2023,Siti Aisyah,Barat,968.14,18,Food,319.64,358.84,Returning,0.00,Credit Card,Retail
+1131,15/02/2023,Siti Aisyah,Utara,8190.94,8,Food,375.81,438.16,Returning,0.04,Bank Transfer,Online
+1132,28/11/2023,Siti Aisyah,Selatan,6628.25,18,Furniture,409.87,466.17,Returning,0.04,Cash,Online
+1133,22/08/2023,Siti Aisyah,Barat,902.93,11,Food,292.05,371.99,Returning,0.05,Credit Card,Retail
+1134,19/06/2023,Dewi Lestari,Utara,9887.26,18,Furniture,221.29,264.54,New,0.13,Bank Transfer,Retail
+1135,04/08/2023,Siti Aisyah,Utara,2326.65,18,Electronics,211.24,251.53,Returning,0.07,Credit Card,Online
+1136,04/04/2023,Ahmad Fauzan,Barat,6834.92,8,Clothing,276.16,325.31,Returning,0.29,Bank Transfer,Online
+1137,16/04/2023,Budi Santoso,Selatan,6385.17,9,Electronics,406.92,469.18,Returning,0.30,Cash,Retail
+1138,05/06/2023,Dewi Lestari,Timur,7250.08,16,Furniture,417.83,482.77,Returning,0.25,Credit Card,Online
+1139,05/03/2023,Budi Santoso,Utara,1976.50,18,Electronics,309.42,355.25,New,0.28,Credit Card,Retail
+1140,16/08/2023,Dewi Lestari,Barat,1787.08,4,Food,554.48,580.24,Returning,0.00,Bank Transfer,Retail
+1141,05/09/2023,Budi Santoso,Selatan,1549.19,12,Food,518.50,541.65,Returning,0.03,Bank Transfer,Online
+1142,13/10/2023,Budi Santoso,Selatan,2070.00,12,Furniture,539.12,578.94,New,0.02,Cash,Retail
+1143,23/12/2023,Ahmad Fauzan,Utara,7815.89,4,Electronics,245.30,278.06,New,0.12,Cash,Retail
+1144,05/08/2023,Rizky Pratama,Timur,9101.37,12,Clothing,388.94,408.68,New,0.09,Cash,Retail
+1145,11/11/2023,Dewi Lestari,Selatan,1878.28,12,Electronics,405.78,440.93,New,0.09,Cash,Online
+1146,20/02/2023,Dewi Lestari,Timur,4859.58,12,Furniture,381.72,415.08,New,0.25,Credit Card,Online
+1147,26/11/2023,Budi Santoso,Barat,3268.76,4,Electronics,427.52,474.59,Returning,0.20,Bank Transfer,Online
+1148,22/12/2023,Rizky Pratama,Utara,4349.20,5,Electronics,567.21,602.15,New,0.23,Cash,Retail
+1149,17/03/2023,Rizky Pratama,Timur,2137.35,12,Clothing,580.02,595.47,New,0.26,Credit Card,Retail
+1150,14/05/2023,Budi Santoso,Barat,4036.89,39,Electronics,155.54,233.04,New,0.00,Cash,Online
+1151,06/06/2023,Ahmad Fauzan,Selatan,1630.51,23,Clothing,219.54,302.25,New,0.03,Credit Card,Retail
+1152,27/07/2023,Ahmad Fauzan,Barat,1289.03,16,Food,184.48,259.65,New,0.02,Cash,Online
+1153,04/05/2023,Dewi Lestari,Utara,1692.18,14,Food,189.89,298.46,New,0.05,Cash,Online
+1154,25/03/2023,Budi Santoso,Utara,9935.17,24,Clothing,220.89,292.07,New,0.09,Cash,Retail
+1155,26/02/2023,Siti Aisyah,Selatan,4221.56,44,Furniture,273.41,369.29,New,0.12,Bank Transfer,Online
+1156,16/04/2023,Ahmad Fauzan,Barat,6272.37,30,Electronics,161.04,265.72,Returning,0.26,Credit Card,Retail
+1157,17/08/2023,Dewi Lestari,Utara,4533.30,15,Electronics,287.21,373.01,New,0.16,Bank Transfer,Retail
+1158,25/11/2023,Rizky Pratama,Utara,3141.54,23,Food,198.12,272.61,New,0.29,Credit Card,Online
+1159,15/08/2023,Ahmad Fauzan,Utara,914.62,12,Electronics,129.62,250.28,New,0.17,Credit Card,Retail
+1160,18/01/2023,Ahmad Fauzan,Timur,3348.92,18,Furniture,273.42,325.27,New,0.00,Cash,Online
+1161,23/02/2023,Budi Santoso,Utara,1596.05,18,Electronics,389.53,461.82,New,0.02,Credit Card,Retail
+1162,29/12/2023,Budi Santoso,Selatan,1411.69,18,Food,379.74,448.55,Returning,0.04,Cash,Online
+1163,18/07/2023,Ahmad Fauzan,Barat,8722.46,18,Electronics,445.22,525.18,New,0.09,Cash,Retail
+1164,10/06/2023,Dewi Lestari,Utara,1204.09,18,Food,344.51,386.73,New,0.09,Cash,Retail
+1165,03/04/2023,Rizky Pratama,Selatan,1831.71,18,Electronics,169.81,231.21,New,0.05,Cash,Online
+1166,19/06/2023,Rizky Pratama,Utara,6250.26,18,Furniture,177.96,252.01,Returning,0.28,Bank Transfer,Online
+1167,31/10/2023,Budi Santoso,Utara,2707.73,18,Food,409.72,483.72,New,0.19,Cash,Online
+1168,26/06/2023,Siti Aisyah,Utara,2133.13,18,Electronics,342.31,400.43,New,0.27,Bank Transfer,Online
+1169,04/07/2023,Siti Aisyah,Selatan,180.60,8,Electronics,245.16,292.04,New,0.19,Bank Transfer,Retail
+1170,23/03/2023,Budi Santoso,Barat,4398.31,12,Clothing,286.03,315.69,Returning,0.00,Credit Card,Online
+1171,28/07/2023,Dewi Lestari,Barat,2533.71,4,Furniture,341.62,370.61,Returning,0.01,Cash,Online
+1172,27/06/2023,Ahmad Fauzan,Utara,2889.63,12,Clothing,598.47,619.98,New,0.04,Credit Card,Retail
+1173,21/08/2023,Budi Santoso,Timur,6320.70,12,Furniture,259.79,277.65,Returning,0.06,Bank Transfer,Online
+1174,19/08/2023,Siti Aisyah,Timur,4507.31,12,Food,494.39,530.94,New,0.13,Bank Transfer,Retail
+1175,13/07/2023,Siti Aisyah,Selatan,5244.51,12,Food,100.00,200.00,New,0.07,Credit Card,Online
+1176,31/05/2023,Rizky Pratama,Selatan,4129.42,12,Clothing,361.96,397.57,Returning,0.23,Cash,Online
+1177,06/01/2023,Siti Aisyah,Barat,9139.08,12,Food,382.39,416.23,Returning,0.16,Cash,Retail
+1178,16/03/2023,Rizky Pratama,Timur,7951.66,12,Furniture,514.50,551.36,New,0.30,Cash,Online
+1179,23/07/2023,Ahmad Fauzan,Utara,9789.21,12,Clothing,519.99,539.15,Returning,0.24,Bank Transfer,Online
+1180,22/10/2023,Budi Santoso,Utara,7726.18,12,Food,157.93,281.34,Returning,0.00,Bank Transfer,Retail
+1181,01/12/2023,Dewi Lestari,Utara,5866.35,31,Furniture,256.12,332.94,Returning,0.02,Credit Card,Retail
+1182,13/02/2023,Siti Aisyah,Barat,4114.55,41,Clothing,274.73,345.03,Returning,0.03,Cash,Online
+1183,17/08/2023,Dewi Lestari,Timur,6029.19,25,Electronics,208.52,306.63,Returning,0.08,Cash,Retail
+1184,07/04/2023,Dewi Lestari,Timur,2219.97,12,Food,202.98,310.08,New,0.05,Cash,Online
+1185,09/07/2023,Budi Santoso,Utara,3207.24,38,Furniture,256.37,362.47,Returning,0.12,Credit Card,Online
+1186,20/06/2023,Siti Aisyah,Selatan,2140.90,26,Food,275.57,403.79,Returning,0.17,Credit Card,Retail
+1187,07/02/2023,Budi Santoso,Utara,4797.50,15,Clothing,190.24,325.89,New,0.25,Credit Card,Online
+1188,02/09/2023,Dewi Lestari,Selatan,369.38,46,Clothing,219.94,357.17,New,0.22,Cash,Retail
+1189,05/09/2023,Dewi Lestari,Barat,3390.58,32,Food,260.92,376.71,New,0.21,Cash,Online
+1190,01/11/2023,Rizky Pratama,Utara,7127.48,18,Clothing,245.33,318.62,Returning,0.00,Bank Transfer,Retail
+1191,20/08/2023,Ahmad Fauzan,Timur,1174.60,18,Clothing,427.84,492.55,New,0.01,Bank Transfer,Retail
+1192,09/10/2023,Siti Aisyah,Utara,7871.48,18,Electronics,404.04,468.35,New,0.01,Credit Card,Online
+1193,03/02/2023,Budi Santoso,Barat,7191.93,18,Food,378.44,414.87,New,0.08,Cash,Retail
+1194,04/10/2023,Ahmad Fauzan,Timur,7478.54,15,Food,172.79,214.12,Returning,0.08,Bank Transfer,Retail
+1195,07/11/2023,Ahmad Fauzan,Utara,1080.73,18,Furniture,364.15,430.33,New,0.13,Credit Card,Online
+1196,01/04/2023,Ahmad Fauzan,Selatan,9531.97,18,Furniture,307.98,360.57,Returning,0.25,Cash,Retail
+1197,29/10/2023,Siti Aisyah,Barat,7699.25,9,Clothing,301.50,374.03,Returning,0.24,Bank Transfer,Online
+1198,04/10/2023,Siti Aisyah,Barat,8419.69,8,Clothing,166.17,214.03,Returning,0.18,Credit Card,Online
+1199,26/05/2023,Rizky Pratama,Barat,128.54,8,Food,426.05,497.64,Returning,0.28,Credit Card,Online
+1200,19/12/2023,Siti Aisyah,Barat,8817.44,12,Electronics,120.00,230.00,Returning,0.00,Bank Transfer,Online
+1201,02/09/2023,Rizky Pratama,Utara,5912.67,12,Clothing,414.43,444.40,New,0.03,Bank Transfer,Retail
+1202,07/06/2023,Ahmad Fauzan,Selatan,4700.01,12,Furniture,563.03,600.35,Returning,0.03,Credit Card,Retail
+1203,04/07/2023,Rizky Pratama,Barat,6718.17,4,Electronics,430.72,477.77,New,0.10,Credit Card,Retail
+1204,10/10/2023,Ahmad Fauzan,Barat,8213.71,12,Clothing,536.05,579.20,New,0.06,Credit Card,Online
+1205,06/06/2023,Budi Santoso,Barat,6088.61,12,Food,400.59,423.60,Returning,0.09,Cash,Retail
+1206,16/10/2023,Siti Aisyah,Selatan,3970.82,12,Clothing,226.96,247.02,New,0.19,Bank Transfer,Retail
+1207,03/03/2023,Ahmad Fauzan,Selatan,780.57,4,Clothing,476.33,491.62,New,0.25,Cash,Retail
+1208,24/04/2023,Budi Santoso,Timur,2006.04,12,Electronics,503.53,538.97,New,0.23,Bank Transfer,Retail
+1209,07/09/2023,Budi Santoso,Utara,3781.72,12,Food,404.15,445.65,Returning,0.22,Cash,Online
+1210,03/01/2023,Rizky Pratama,Selatan,5414.18,30,Electronics,141.66,202.77,New,0.00,Credit Card,Online
+1211,30/03/2023,Dewi Lestari,Selatan,1635.38,17,Clothing,154.00,251.92,New,0.03,Cash,Retail
+1212,07/03/2023,Rizky Pratama,Utara,7119.12,12,Electronics,188.84,253.38,New,0.02,Cash,Online
+1213,20/02/2023,Budi Santoso,Utara,911.12,17,Electronics,167.95,305.48,New,0.12,Cash,Retail
+1214,29/08/2023,Budi Santoso,Utara,6922.72,23,Furniture,270.36,360.28,New,0.11,Cash,Online
+1215,20/10/2023,Ahmad Fauzan,Utara,2242.72,28,Food,219.32,298.04,Returning,0.06,Bank Transfer,Retail
+1216,18/03/2023,Ahmad Fauzan,Utara,2420.38,30,Electronics,154.79,275.21,New,0.26,Cash,Retail
+1217,15/05/2023,Rizky Pratama,Selatan,8725.82,47,Clothing,147.73,271.38,New,0.17,Cash,Retail
+1218,10/12/2023,Siti Aisyah,Utara,8221.51,12,Food,171.98,274.10,New,0.21,Credit Card,Retail
+1219,22/07/2023,Budi Santoso,Selatan,4718.66,50,Clothing,163.17,230.81,New,0.23,Cash,Online
+1220,01/09/2023,Rizky Pratama,Selatan,2264.45,16,Furniture,333.61,372.61,New,0.00,Credit Card,Online
+1221,29/06/2023,Siti Aisyah,Barat,4708.85,18,Furniture,238.95,274.08,New,0.03,Bank Transfer,Online
+1222,19/05/2023,Ahmad Fauzan,Barat,928.67,8,Electronics,347.00,401.48,New,0.01,Bank Transfer,Retail
+1223,21/01/2023,Dewi Lestari,Barat,9383.54,18,Food,347.21,413.97,New,0.11,Credit Card,Online
+1224,30/04/2023,Siti Aisyah,Utara,4380.40,18,Furniture,183.01,244.88,Returning,0.08,Credit Card,Retail
+1225,25/02/2023,Dewi Lestari,Barat,8021.79,8,Clothing,168.24,226.15,New,0.12,Credit Card,Online
+1226,23/09/2023,Siti Aisyah,Barat,2527.02,12,Furniture,277.52,325.81,New,0.18,Credit Card,Online
+1227,21/09/2023,Ahmad Fauzan,Timur,1475.00,18,Furniture,186.46,252.06,New,0.16,Cash,Retail
+1228,21/08/2023,Rizky Pratama,Selatan,8021.77,18,Furniture,439.24,508.55,New,0.29,Bank Transfer,Online
+1229,21/07/2023,Siti Aisyah,Utara,7698.12,12,Furniture,435.25,512.62,Returning,0.28,Cash,Online
+1230,06/05/2023,Rizky Pratama,Utara,632.50,12,Furniture,568.57,616.08,New,0.00,Bank Transfer,Online
+1231,28/01/2023,Budi Santoso,Timur,6408.52,12,Electronics,471.76,503.50,Returning,0.01,Credit Card,Retail
+1232,01/07/2023,Rizky Pratama,Utara,1893.50,9,Clothing,244.51,273.45,Returning,0.01,Cash,Online
+1233,16/10/2023,Rizky Pratama,Utara,5732.23,12,Electronics,388.77,424.19,Returning,0.08,Cash,Online
+1234,21/05/2023,Siti Aisyah,Timur,9613.79,9,Electronics,201.96,237.81,New,0.08,Bank Transfer,Online
+1235,23/10/2023,Siti Aisyah,Selatan,1987.37,12,Electronics,586.16,634.37,New,0.13,Bank Transfer,Retail
+1236,02/09/2023,Ahmad Fauzan,Barat,2899.81,4,Food,452.00,487.24,Returning,0.22,Credit Card,Online
+1237,01/04/2023,Budi Santoso,Selatan,3366.33,12,Food,490.00,520.27,Returning,0.20,Cash,Online
+1238,23/12/2023,Budi Santoso,Timur,1904.48,4,Electronics,569.43,593.28,New,0.24,Bank Transfer,Retail
+1239,18/02/2023,Siti Aisyah,Utara,7787.21,11,Furniture,291.55,341.44,New,0.19,Cash,Online
+1240,28/04/2023,Ahmad Fauzan,Selatan,1670.21,17,Clothing,213.39,332.02,New,0.00,Cash,Online
+1241,26/03/2023,Budi Santoso,Timur,232.27,12,Electronics,119.68,187.15,Returning,0.03,Cash,Retail
+1242,10/03/2023,Siti Aisyah,Timur,5536.22,19,Food,196.30,274.49,Returning,0.02,Bank Transfer,Retail
+1243,05/05/2023,Dewi Lestari,Selatan,1104.31,17,Food,277.35,341.13,Returning,0.12,Credit Card,Retail
+1244,07/02/2023,Dewi Lestari,Barat,3087.63,38,Food,290.58,430.09,New,0.11,Cash,Online
+1245,21/09/2023,Ahmad Fauzan,Barat,5780.04,12,Furniture,213.18,327.15,New,0.08,Cash,Retail
+1246,17/01/2023,Ahmad Fauzan,Barat,6767.63,12,Food,179.29,265.32,New,0.29,Credit Card,Online
+1247,02/06/2023,Siti Aisyah,Timur,7428.12,46,Furniture,137.48,262.44,New,0.24,Cash,Online
+1248,18/10/2023,Siti Aisyah,Selatan,2096.02,12,Food,159.24,285.46,New,0.23,Cash,Online
+1249,19/03/2023,Dewi Lestari,Selatan,2579.63,23,Food,115.03,190.16,New,0.28,Bank Transfer,Retail
+1250,01/03/2023,Budi Santoso,Utara,5750.63,18,Electronics,237.64,296.38,Returning,0.00,Cash,Online
+1251,22/04/2023,Rizky Pratama,Barat,267.64,18,Electronics,376.39,415.16,New,0.04,Credit Card,Retail
+1252,18/03/2023,Dewi Lestari,Selatan,1022.75,18,Electronics,342.22,391.66,Returning,0.02,Credit Card,Online
+1253,13/05/2023,Rizky Pratama,Selatan,7292.82,11,Food,420.55,461.88,New,0.11,Bank Transfer,Online
+1254,23/06/2023,Dewi Lestari,Barat,6939.95,18,Furniture,440.55,477.54,New,0.10,Cash,Online
+1255,27/03/2023,Dewi Lestari,Selatan,1003.37,18,Furniture,214.70,294.50,Returning,0.07,Cash,Online
+1256,12/04/2023,Siti Aisyah,Barat,3114.42,18,Furniture,245.37,287.33,Returning,0.21,Credit Card,Online
+1257,15/10/2023,Rizky Pratama,Timur,3439.63,18,Electronics,243.36,288.05,New,0.17,Credit Card,Online
+1258,03/05/2023,Ahmad Fauzan,Utara,778.97,18,Clothing,362.55,412.07,Returning,0.22,Bank Transfer,Retail
+1259,03/03/2023,Ahmad Fauzan,Selatan,4099.92,11,Electronics,313.62,368.00,Returning,0.23,Bank Transfer,Online
+1260,12/02/2023,Rizky Pratama,Utara,4043.72,12,Furniture,349.86,379.64,Returning,0.00,Credit Card,Online
+1261,18/05/2023,Budi Santoso,Barat,6537.11,4,Electronics,225.11,249.94,New,0.04,Cash,Online
+1262,17/06/2023,Budi Santoso,Selatan,6725.52,12,Food,373.22,421.50,Returning,0.03,Bank Transfer,Online
+1263,21/09/2023,Budi Santoso,Barat,8897.55,12,Food,547.62,594.45,New,0.13,Bank Transfer,Retail
+1264,01/10/2023,Siti Aisyah,Utara,8492.38,12,Electronics,492.42,535.45,New,0.10,Bank Transfer,Retail
+1265,24/11/2023,Siti Aisyah,Utara,5450.17,12,Furniture,282.52,319.60,New,0.07,Bank Transfer,Retail
+1266,23/10/2023,Ahmad Fauzan,Barat,9693.35,7,Clothing,244.28,266.94,New,0.28,Bank Transfer,Online
+1267,13/10/2023,Siti Aisyah,Utara,5273.46,12,Clothing,528.65,558.92,New,0.19,Cash,Online
+1268,21/05/2023,Ahmad Fauzan,Selatan,999.06,12,Furniture,401.83,425.30,Returning,0.16,Cash,Retail
+1269,15/10/2023,Ahmad Fauzan,Barat,8498.40,6,Furniture,548.67,595.69,New,0.20,Bank Transfer,Retail
+1270,05/06/2023,Rizky Pratama,Barat,5631.93,12,Furniture,102.25,222.72,New,0.00,Credit Card,Online
+1271,15/03/2023,Dewi Lestari,Utara,1509.95,31,Furniture,228.02,326.40,Returning,0.03,Bank Transfer,Retail
+1272,12/11/2023,Dewi Lestari,Timur,5557.47,29,Clothing,295.36,368.12,New,0.03,Cash,Online
+1273,10/01/2023,Ahmad Fauzan,Barat,4337.24,22,Clothing,206.64,337.40,New,0.12,Bank Transfer,Retail
+1274,27/12/2023,Siti Aisyah,Utara,8486.88,12,Furniture,240.92,316.53,Returning,0.12,Credit Card,Retail
+1275,11/10/2023,Budi Santoso,Barat,4878.32,12,Clothing,100.00,200.00,Returning,0.11,Credit Card,Online
+1276,24/04/2023,Budi Santoso,Selatan,8120.14,30,Furniture,181.96,320.87,Returning,0.27,Cash,Retail
+1277,02/11/2023,Ahmad Fauzan,Utara,9885.24,12,Clothing,298.30,385.84,Returning,0.15,Bank Transfer,Online
+1278,05/09/2023,Rizky Pratama,Barat,1447.09,12,Food,102.11,220.49,Returning,0.21,Bank Transfer,Online
+1279,19/05/2023,Dewi Lestari,Selatan,4502.40,12,Electronics,242.54,340.64,Returning,0.24,Credit Card,Online
+1280,03/08/2023,Siti Aisyah,Utara,2316.95,18,Food,313.05,367.07,New,0.00,Credit Card,Online
+1281,20/06/2023,Rizky Pratama,Selatan,5943.71,11,Food,342.21,382.62,Returning,0.04,Credit Card,Online
+1282,22/12/2023,Budi Santoso,Timur,1386.29,18,Electronics,277.32,326.95,Returning,0.01,Cash,Online
+1283,10/03/2023,Ahmad Fauzan,Utara,7423.75,18,Food,240.62,281.31,New,0.08,Credit Card,Retail
+1284,05/11/2023,Siti Aisyah,Selatan,2555.24,10,Food,231.10,300.11,Returning,0.08,Cash,Retail
+1285,08/06/2023,Budi Santoso,Selatan,4758.45,18,Food,425.64,479.23,New,0.09,Credit Card,Retail
+1286,17/10/2023,Dewi Lestari,Utara,6086.59,11,Clothing,402.27,440.15,New,0.22,Cash,Online
+1287,08/08/2023,Rizky Pratama,Timur,8400.63,18,Food,271.78,345.02,Returning,0.24,Credit Card,Online
+1288,25/08/2023,Rizky Pratama,Selatan,3876.41,11,Food,413.03,487.28,Returning,0.22,Cash,Retail
+1289,23/02/2023,Dewi Lestari,Barat,8085.22,8,Clothing,215.70,261.53,New,0.25,Credit Card,Online
+1290,05/01/2023,Siti Aisyah,Barat,1480.35,10,Clothing,390.33,435.28,New,0.00,Credit Card,Retail
+1291,25/03/2023,Budi Santoso,Utara,2189.90,12,Electronics,461.44,506.18,New,0.02,Cash,Online
+1292,12/02/2023,Budi Santoso,Utara,4789.53,12,Food,566.48,589.53,New,0.02,Bank Transfer,Retail
+1293,27/01/2023,Ahmad Fauzan,Utara,1907.85,11,Clothing,350.45,371.29,Returning,0.06,Cash,Retail
+1294,12/03/2023,Rizky Pratama,Barat,9432.57,12,Electronics,345.37,379.86,Returning,0.13,Bank Transfer,Online
+1295,27/09/2023,Budi Santoso,Timur,2975.19,10,Electronics,377.05,396.42,New,0.06,Cash,Retail
+1296,08/01/2023,Dewi Lestari,Utara,1484.42,9,Furniture,208.83,252.96,New,0.23,Bank Transfer,Retail
+1297,24/12/2023,Dewi Lestari,Utara,5708.98,4,Furniture,506.84,548.56,New,0.19,Bank Transfer,Online
+1298,12/03/2023,Rizky Pratama,Utara,7574.39,12,Clothing,550.97,582.03,Returning,0.16,Bank Transfer,Retail
+1299,06/03/2023,Siti Aisyah,Timur,2804.49,12,Clothing,221.54,261.20,New,0.26,Bank Transfer,Online
+1300,19/07/2023,Siti Aisyah,Utara,7845.46,12,Electronics,120.00,230.00,Returning,0.00,Bank Transfer,Online
+1301,05/02/2023,Rizky Pratama,Selatan,8726.47,19,Clothing,137.96,225.76,Returning,0.01,Bank Transfer,Retail
+1302,15/04/2023,Rizky Pratama,Barat,1723.89,31,Electronics,210.55,274.94,Returning,0.02,Cash,Online
+1303,24/10/2023,Dewi Lestari,Timur,7770.81,23,Furniture,143.26,227.96,Returning,0.09,Bank Transfer,Online
+1304,05/12/2023,Ahmad Fauzan,Timur,277.30,23,Clothing,241.44,321.54,Returning,0.07,Bank Transfer,Online
+1305,29/09/2023,Siti Aisyah,Barat,4593.60,42,Clothing,212.88,307.26,New,0.13,Cash,Retail
+1306,02/12/2023,Dewi Lestari,Selatan,3285.87,22,Food,212.88,294.68,New,0.24,Credit Card,Online
+1307,20/08/2023,Dewi Lestari,Selatan,490.77,12,Food,157.06,249.12,Returning,0.28,Bank Transfer,Retail
+1308,20/09/2023,Rizky Pratama,Barat,8185.03,41,Furniture,180.31,263.47,Returning,0.27,Cash,Retail
+1309,22/03/2023,Dewi Lestari,Timur,9542.69,15,Electronics,212.60,293.14,New,0.22,Cash,Online
+1310,20/08/2023,Ahmad Fauzan,Selatan,3214.88,18,Furniture,316.89,378.27,Returning,0.00,Credit Card,Retail
+1311,14/04/2023,Siti Aisyah,Barat,4186.16,18,Furniture,305.60,375.36,Returning,0.02,Cash,Online
+1312,16/03/2023,Rizky Pratama,Timur,8827.57,18,Food,363.59,439.40,New,0.03,Credit Card,Online
+1313,20/03/2023,Ahmad Fauzan,Barat,6102.10,8,Furniture,333.38,386.50,New,0.08,Credit Card,Retail
+1314,11/07/2023,Siti Aisyah,Utara,141.00,9,Food,228.57,267.05,Returning,0.12,Cash,Retail
+1315,05/05/2023,Rizky Pratama,Barat,9635.95,8,Electronics,175.01,254.28,Returning,0.11,Cash,Retail
+1316,18/01/2023,Rizky Pratama,Selatan,576.51,18,Electronics,331.66,392.71,New,0.20,Credit Card,Retail
+1317,22/08/2023,Budi Santoso,Utara,2886.88,18,Electronics,185.35,227.49,New,0.22,Bank Transfer,Retail
+1318,12/12/2023,Siti Aisyah,Selatan,3764.78,18,Furniture,163.43,215.06,Returning,0.16,Cash,Online
+1319,18/09/2023,Dewi Lestari,Selatan,1445.77,18,Electronics,300.70,343.77,New,0.24,Credit Card,Online
+1320,16/10/2023,Dewi Lestari,Selatan,5508.20,4,Food,328.17,360.25,Returning,0.00,Bank Transfer,Online
+1321,18/04/2023,Ahmad Fauzan,Timur,2100.55,12,Food,473.60,519.15,New,0.02,Bank Transfer,Retail
+1322,10/05/2023,Ahmad Fauzan,Barat,6117.03,12,Furniture,273.15,312.10,Returning,0.02,Bank Transfer,Retail
+1323,07/05/2023,Dewi Lestari,Timur,9843.87,12,Clothing,354.17,373.91,Returning,0.12,Cash,Online
+1324,07/03/2023,Ahmad Fauzan,Barat,333.81,12,Electronics,375.91,419.35,New,0.06,Credit Card,Online
+1325,16/11/2023,Budi Santoso,Barat,8753.47,12,Electronics,210.98,231.57,New,0.06,Credit Card,Retail
+1326,04/04/2023,Budi Santoso,Selatan,5619.78,12,Food,364.87,379.92,New,0.23,Credit Card,Online
+1327,28/08/2023,Budi Santoso,Timur,1602.40,12,Furniture,420.01,451.18,Returning,0.19,Bank Transfer,Retail
+1328,15/05/2023,Dewi Lestari,Selatan,6987.72,12,Furniture,521.50,548.11,Returning,0.19,Credit Card,Online
+1329,22/03/2023,Dewi Lestari,Timur,7304.95,12,Food,538.90,559.37,New,0.29,Bank Transfer,Online
+1330,23/07/2023,Budi Santoso,Barat,303.83,36,Furniture,223.61,357.08,Returning,0.00,Credit Card,Online
+1331,06/06/2023,Ahmad Fauzan,Utara,8138.31,21,Furniture,299.86,423.84,New,0.02,Credit Card,Online
+1332,11/06/2023,Rizky Pratama,Barat,8266.55,45,Clothing,162.59,262.53,New,0.03,Credit Card,Retail
+1333,05/07/2023,Dewi Lestari,Timur,8572.50,19,Food,258.80,365.76,Returning,0.08,Credit Card,Retail
+1334,13/06/2023,Ahmad Fauzan,Utara,5881.96,31,Food,216.95,321.14,New,0.08,Bank Transfer,Retail
+1335,13/05/2023,Dewi Lestari,Utara,5671.00,18,Clothing,215.64,321.17,Returning,0.06,Cash,Online
+1336,31/10/2023,Ahmad Fauzan,Timur,8660.83,38,Clothing,240.44,327.87,Returning,0.30,Bank Transfer,Retail
+1337,29/11/2023,Ahmad Fauzan,Utara,9368.50,14,Furniture,196.92,303.62,Returning,0.19,Cash,Online
+1338,18/06/2023,Budi Santoso,Selatan,2222.25,18,Furniture,253.89,321.45,New,0.17,Cash,Retail
+1339,20/11/2023,Ahmad Fauzan,Selatan,1126.20,47,Food,142.02,216.45,Returning,0.30,Cash,Online
+1340,01/04/2023,Siti Aisyah,Selatan,2389.62,16,Clothing,177.07,228.17,Returning,0.00,Credit Card,Retail
+1341,05/10/2023,Siti Aisyah,Barat,3350.55,18,Electronics,362.12,427.01,Returning,0.03,Credit Card,Online
+1342,23/06/2023,Rizky Pratama,Utara,9639.70,18,Furniture,288.20,344.85,Returning,0.04,Credit Card,Retail
+1343,30/12/2023,Rizky Pratama,Selatan,4074.51,18,Food,153.11,214.64,New,0.10,Bank Transfer,Retail
+1344,25/08/2023,Budi Santoso,Utara,1633.76,18,Furniture,349.61,401.53,Returning,0.13,Credit Card,Retail
+1345,15/12/2023,Ahmad Fauzan,Barat,1718.27,18,Food,252.91,299.79,New,0.13,Bank Transfer,Retail
+1346,12/12/2023,Siti Aisyah,Utara,6861.63,18,Clothing,292.54,350.62,Returning,0.15,Cash,Retail
+1347,15/07/2023,Rizky Pratama,Utara,3280.82,18,Furniture,359.29,422.97,Returning,0.22,Credit Card,Retail
+1348,13/07/2023,Dewi Lestari,Utara,8094.30,9,Food,177.24,222.10,New,0.15,Cash,Retail
+1349,28/03/2023,Ahmad Fauzan,Selatan,3431.20,18,Furniture,325.09,372.04,New,0.16,Cash,Retail
+1350,08/04/2023,Siti Aisyah,Timur,5151.85,12,Electronics,379.59,428.86,Returning,0.00,Cash,Online
+1351,08/10/2023,Rizky Pratama,Selatan,5197.78,12,Electronics,342.54,389.02,New,0.03,Credit Card,Online
+1352,18/02/2023,Budi Santoso,Timur,3552.49,12,Clothing,348.52,384.13,New,0.03,Cash,Retail
+1353,01/11/2023,Budi Santoso,Barat,1320.75,12,Electronics,445.00,477.68,New,0.08,Bank Transfer,Retail
+1354,05/05/2023,Ahmad Fauzan,Utara,4468.48,12,Electronics,294.41,317.48,New,0.12,Cash,Retail
+1355,11/11/2023,Rizky Pratama,Barat,2974.40,12,Furniture,344.68,382.76,Returning,0.11,Credit Card,Online
+1356,08/07/2023,Rizky Pratama,Barat,1121.48,12,Furniture,529.70,572.34,Returning,0.22,Bank Transfer,Retail
+1357,01/07/2023,Budi Santoso,Barat,4001.37,12,Furniture,376.50,426.32,Returning,0.20,Credit Card,Online
+1358,06/07/2023,Ahmad Fauzan,Timur,2424.68,12,Clothing,341.99,367.25,New,0.30,Bank Transfer,Online
+1359,13/01/2023,Budi Santoso,Utara,134.90,12,Food,315.04,351.51,New,0.20,Cash,Online
+1360,28/03/2023,Dewi Lestari,Selatan,4305.00,21,Electronics,258.94,374.73,New,0.00,Credit Card,Online
+1361,18/05/2023,Dewi Lestari,Utara,8372.12,12,Electronics,292.59,360.74,Returning,0.02,Cash,Online
+1362,30/09/2023,Budi Santoso,Timur,5805.48,29,Clothing,100.41,226.86,Returning,0.02,Cash,Retail
+1363,27/11/2023,Dewi Lestari,Utara,2173.79,39,Clothing,218.68,297.45,Returning,0.11,Credit Card,Online
+1364,17/05/2023,Budi Santoso,Barat,8116.86,22,Food,164.00,298.94,New,0.10,Bank Transfer,Online
+1365,19/06/2023,Ahmad Fauzan,Timur,8160.35,38,Furniture,119.58,237.24,New,0.10,Bank Transfer,Online
+1366,17/10/2023,Siti Aisyah,Utara,4169.76,26,Clothing,140.92,237.07,Returning,0.29,Cash,Online
+1367,30/03/2023,Budi Santoso,Utara,8466.35,12,Food,168.41,300.95,New,0.28,Credit Card,Online
+1368,27/06/2023,Ahmad Fauzan,Selatan,6988.76,31,Clothing,123.86,261.61,Returning,0.23,Cash,Retail
+1369,20/09/2023,Ahmad Fauzan,Barat,167.03,12,Electronics,134.38,259.10,Returning,0.16,Cash,Online
+1370,11/07/2023,Budi Santoso,Selatan,3113.16,18,Electronics,286.59,343.49,New,0.00,Credit Card,Retail
+1371,05/06/2023,Ahmad Fauzan,Selatan,8055.82,18,Food,289.40,339.64,New,0.03,Credit Card,Retail
+1372,07/10/2023,Siti Aisyah,Selatan,6929.10,18,Furniture,418.43,476.95,Returning,0.03,Cash,Retail
+1373,22/12/2023,Ahmad Fauzan,Barat,3140.94,8,Clothing,431.16,496.00,New,0.11,Bank Transfer,Online
+1374,19/10/2023,Siti Aisyah,Barat,8326.26,13,Food,294.67,341.00,New,0.05,Bank Transfer,Online
+1375,08/12/2023,Budi Santoso,Utara,5013.18,12,Clothing,100.00,200.00,Returning,0.10,Cash,Online
+1376,17/02/2023,Ahmad Fauzan,Utara,3802.21,18,Furniture,394.86,459.52,Returning,0.16,Cash,Online
+1377,13/02/2023,Ahmad Fauzan,Utara,3510.78,18,Clothing,199.60,259.16,Returning,0.27,Bank Transfer,Retail
+1378,09/06/2023,Dewi Lestari,Utara,5459.20,18,Clothing,150.30,189.51,New,0.17,Bank Transfer,Online
+1379,10/03/2023,Ahmad Fauzan,Utara,7413.67,18,Electronics,436.92,509.67,Returning,0.15,Credit Card,Online
+1380,29/09/2023,Dewi Lestari,Timur,2107.99,12,Furniture,260.69,301.80,New,0.00,Cash,Online
+1381,18/10/2023,Ahmad Fauzan,Selatan,934.45,11,Furniture,482.32,510.89,Returning,0.03,Cash,Online
+1382,13/09/2023,Siti Aisyah,Utara,7852.98,12,Furniture,464.88,507.87,New,0.02,Credit Card,Retail
+1383,27/08/2023,Siti Aisyah,Timur,6111.49,12,Clothing,213.19,258.79,New,0.08,Bank Transfer,Retail
+1384,18/01/2023,Budi Santoso,Barat,3259.48,12,Food,389.68,432.11,Returning,0.11,Cash,Retail
+1385,21/01/2023,Budi Santoso,Barat,4175.37,12,Food,408.18,448.82,New,0.05,Bank Transfer,Online
+1386,23/03/2023,Rizky Pratama,Selatan,7233.80,4,Clothing,302.07,344.85,Returning,0.25,Bank Transfer,Online
+1387,15/02/2023,Budi Santoso,Selatan,172.05,12,Food,485.03,515.74,New,0.27,Cash,Online
+1388,17/08/2023,Dewi Lestari,Timur,4322.38,12,Furniture,343.32,383.85,Returning,0.17,Credit Card,Online
+1389,29/05/2023,Rizky Pratama,Utara,4459.62,12,Electronics,436.49,469.33,New,0.21,Bank Transfer,Retail
+1390,03/11/2023,Rizky Pratama,Barat,6348.02,42,Furniture,122.76,198.53,Returning,0.00,Bank Transfer,Retail
+1391,06/07/2023,Siti Aisyah,Selatan,5095.04,22,Electronics,103.20,187.56,New,0.02,Cash,Retail
+1392,10/07/2023,Siti Aisyah,Selatan,966.01,36,Food,147.90,220.88,Returning,0.04,Credit Card,Online
+1393,22/08/2023,Siti Aisyah,Selatan,1944.76,34,Electronics,122.72,227.59,Returning,0.05,Bank Transfer,Online
+1394,20/09/2023,Rizky Pratama,Utara,8020.84,29,Clothing,142.10,281.41,Returning,0.06,Credit Card,Retail
+1395,12/08/2023,Budi Santoso,Utara,4317.65,33,Food,262.91,402.75,New,0.13,Cash,Online
+1396,08/11/2023,Rizky Pratama,Selatan,6134.80,28,Furniture,184.08,264.33,Returning,0.19,Cash,Retail
+1397,07/12/2023,Dewi Lestari,Barat,8676.50,12,Furniture,165.89,263.83,New,0.16,Bank Transfer,Online
+1398,22/10/2023,Rizky Pratama,Selatan,2672.13,34,Electronics,294.48,429.08,Returning,0.30,Cash,Online
+1399,02/02/2023,Budi Santoso,Barat,3817.66,49,Food,195.69,310.77,Returning,0.30,Cash,Retail
+1400,16/08/2023,Dewi Lestari,Selatan,7778.75,12,Electronics,120.00,230.00,Returning,0.00,Credit Card,Online
+1401,03/12/2023,Dewi Lestari,Timur,8907.34,18,Food,339.57,410.54,New,0.03,Credit Card,Retail
+1402,11/11/2023,Dewi Lestari,Barat,4317.67,18,Electronics,415.30,450.69,New,0.02,Credit Card,Retail
+1403,17/07/2023,Budi Santoso,Utara,971.57,8,Clothing,280.36,357.39,New,0.07,Credit Card,Retail
+1404,23/07/2023,Siti Aisyah,Timur,4037.32,17,Electronics,411.38,474.01,New,0.12,Cash,Online
+1405,21/01/2023,Budi Santoso,Utara,2806.09,8,Electronics,436.16,486.28,New,0.06,Cash,Retail
+1406,26/07/2023,Dewi Lestari,Selatan,1798.85,12,Food,159.29,210.61,New,0.21,Bank Transfer,Online
+1407,31/08/2023,Budi Santoso,Selatan,8205.50,12,Electronics,398.66,474.02,Returning,0.18,Credit Card,Online
+1408,14/08/2023,Rizky Pratama,Utara,6220.07,11,Furniture,324.67,404.08,Returning,0.17,Cash,Online
+1409,23/07/2023,Rizky Pratama,Timur,5825.19,18,Electronics,340.56,413.42,Returning,0.20,Bank Transfer,Online
+1410,24/12/2023,Rizky Pratama,Timur,3804.89,12,Furniture,312.52,329.59,Returning,0.00,Cash,Retail
+1411,21/02/2023,Budi Santoso,Selatan,3201.52,12,Electronics,491.56,534.77,Returning,0.03,Bank Transfer,Retail
+1412,12/06/2023,Dewi Lestari,Utara,9893.09,12,Food,391.93,416.70,Returning,0.03,Credit Card,Retail
+1413,26/01/2023,Rizky Pratama,Timur,6578.13,11,Food,564.44,607.92,New,0.05,Credit Card,Online
+1414,14/05/2023,Dewi Lestari,Timur,4475.76,12,Electronics,267.72,293.30,Returning,0.05,Bank Transfer,Retail
+1415,05/05/2023,Rizky Pratama,Selatan,8178.17,12,Furniture,264.01,302.08,Returning,0.07,Bank Transfer,Online
+1416,25/09/2023,Budi Santoso,Selatan,4731.71,12,Food,398.57,426.01,New,0.29,Credit Card,Retail
+1417,13/01/2023,Dewi Lestari,Timur,5433.72,8,Clothing,405.22,446.53,Returning,0.16,Cash,Online
+1418,02/09/2023,Ahmad Fauzan,Timur,5364.60,12,Food,396.81,421.41,Returning,0.16,Credit Card,Online
+1419,07/04/2023,Siti Aisyah,Selatan,5182.70,12,Electronics,432.76,478.31,Returning,0.15,Credit Card,Retail
+1420,05/08/2023,Siti Aisyah,Utara,6028.88,12,Clothing,261.91,338.89,New,0.00,Cash,Online
+1421,12/07/2023,Budi Santoso,Utara,4081.95,50,Clothing,247.28,352.11,New,0.02,Bank Transfer,Online
+1422,11/04/2023,Ahmad Fauzan,Utara,9442.99,15,Food,162.35,249.36,Returning,0.04,Credit Card,Retail
+1423,22/03/2023,Budi Santoso,Barat,3526.16,45,Furniture,247.74,385.72,New,0.06,Bank Transfer,Online
+1424,20/09/2023,Dewi Lestari,Timur,1556.84,12,Electronics,265.55,349.14,Returning,0.08,Bank Transfer,Online
+1425,28/08/2023,Ahmad Fauzan,Selatan,8025.32,12,Clothing,142.31,243.72,New,0.13,Cash,Online
+1426,10/10/2023,Budi Santoso,Barat,5642.27,12,Clothing,182.84,294.09,Returning,0.19,Credit Card,Retail
+1427,27/07/2023,Ahmad Fauzan,Utara,5042.01,27,Furniture,275.81,372.12,Returning,0.19,Cash,Online
+1428,12/07/2023,Siti Aisyah,Selatan,2644.12,34,Furniture,110.19,240.15,Returning,0.17,Credit Card,Retail
+1429,25/02/2023,Rizky Pratama,Barat,701.44,45,Furniture,263.41,370.24,Returning,0.20,Credit Card,Retail
+1430,14/12/2023,Budi Santoso,Utara,368.72,18,Food,216.27,268.32,New,0.00,Credit Card,Online
+1431,29/01/2023,Rizky Pratama,Utara,2244.23,18,Clothing,335.54,395.43,Returning,0.02,Credit Card,Online
+1432,25/08/2023,Dewi Lestari,Barat,5886.55,18,Electronics,447.33,487.84,Returning,0.02,Credit Card,Online
+1433,27/12/2023,Ahmad Fauzan,Timur,2363.92,18,Electronics,181.50,235.48,Returning,0.13,Bank Transfer,Retail
+1434,28/05/2023,Rizky Pratama,Utara,4483.58,18,Food,391.30,455.52,New,0.13,Credit Card,Retail
+1435,03/06/2023,Budi Santoso,Selatan,9384.16,18,Furniture,381.58,453.12,Returning,0.12,Credit Card,Online
+1436,20/09/2023,Rizky Pratama,Utara,2485.30,18,Food,382.21,425.99,Returning,0.20,Bank Transfer,Online
+1437,23/04/2023,Budi Santoso,Barat,9666.57,18,Electronics,405.43,478.70,Returning,0.24,Bank Transfer,Retail
+1438,19/08/2023,Rizky Pratama,Timur,6260.87,18,Food,440.46,490.47,New,0.22,Cash,Online
+1439,19/01/2023,Ahmad Fauzan,Barat,9255.95,12,Furniture,235.80,273.93,Returning,0.27,Cash,Retail
+1440,20/02/2023,Ahmad Fauzan,Selatan,2335.92,6,Food,230.94,278.16,New,0.00,Bank Transfer,Retail
+1441,02/03/2023,Siti Aisyah,Timur,6695.60,12,Food,394.60,420.76,New,0.02,Credit Card,Online
+1442,15/04/2023,Rizky Pratama,Utara,8034.24,12,Clothing,279.82,318.97,Returning,0.02,Bank Transfer,Retail
+1443,01/03/2023,Rizky Pratama,Selatan,5247.48,12,Clothing,541.17,587.00,Returning,0.07,Credit Card,Retail
+1444,09/11/2023,Budi Santoso,Barat,2828.91,7,Food,547.07,584.50,Returning,0.05,Cash,Retail
+1445,07/12/2023,Siti Aisyah,Barat,3871.88,12,Electronics,491.49,523.48,New,0.08,Credit Card,Retail
+1446,17/10/2023,Rizky Pratama,Utara,4771.94,12,Clothing,332.01,354.30,New,0.26,Bank Transfer,Online
+1447,02/01/2023,Budi Santoso,Timur,4079.74,4,Food,267.97,292.44,Returning,0.16,Bank Transfer,Online
+1448,22/05/2023,Dewi Lestari,Utara,1242.45,12,Electronics,526.27,575.18,New,0.28,Bank Transfer,Online
+1449,13/04/2023,Siti Aisyah,Timur,1599.16,12,Food,429.57,462.28,Returning,0.23,Cash,Online
+1450,09/12/2023,Ahmad Fauzan,Barat,4076.11,36,Electronics,282.55,374.47,New,0.00,Cash,Online
+1451,11/01/2023,Ahmad Fauzan,Utara,5907.90,12,Furniture,170.51,266.11,New,0.04,Cash,Retail
+1452,04/04/2023,Siti Aisyah,Timur,7640.67,12,Food,100.26,229.63,Returning,0.02,Cash,Online
+1453,26/05/2023,Ahmad Fauzan,Selatan,4552.91,23,Furniture,122.35,259.82,New,0.12,Bank Transfer,Online
+1454,09/06/2023,Dewi Lestari,Selatan,2428.03,48,Food,129.95,215.96,Returning,0.13,Cash,Retail
+1455,21/08/2023,Dewi Lestari,Barat,2596.70,17,Furniture,226.31,314.10,New,0.07,Bank Transfer,Retail
+1456,18/12/2023,Siti Aisyah,Selatan,6873.57,49,Furniture,230.36,316.65,New,0.21,Cash,Retail
+1457,03/06/2023,Siti Aisyah,Utara,966.44,12,Furniture,105.89,170.78,Returning,0.29,Credit Card,Retail
+1458,20/07/2023,Ahmad Fauzan,Timur,9781.30,36,Clothing,119.34,224.11,Returning,0.29,Cash,Online
+1459,03/02/2023,Rizky Pratama,Barat,8108.95,12,Electronics,193.62,293.30,Returning,0.26,Cash,Online
+1460,09/03/2023,Dewi Lestari,Barat,4071.18,18,Electronics,270.96,343.75,New,0.00,Credit Card,Online
+1461,06/08/2023,Budi Santoso,Barat,186.49,18,Electronics,370.56,423.81,Returning,0.02,Credit Card,Retail
+1462,25/02/2023,Ahmad Fauzan,Selatan,7898.17,8,Food,273.07,314.54,Returning,0.01,Credit Card,Retail
+1463,13/02/2023,Rizky Pratama,Barat,7358.10,18,Food,319.80,358.62,New,0.12,Credit Card,Retail
+1464,04/08/2023,Budi Santoso,Selatan,6478.33,18,Furniture,332.03,379.88,Returning,0.11,Cash,Retail
+1465,29/05/2023,Rizky Pratama,Selatan,4479.05,18,Furniture,295.70,340.25,Returning,0.07,Credit Card,Online
+1466,19/11/2023,Siti Aisyah,Timur,9982.73,8,Electronics,349.97,392.54,Returning,0.19,Credit Card,Online
+1467,26/11/2023,Budi Santoso,Barat,7912.11,18,Electronics,400.42,476.93,New,0.16,Bank Transfer,Online
+1468,08/06/2023,Ahmad Fauzan,Utara,3048.75,18,Food,422.00,499.98,New,0.17,Credit Card,Online
+1469,15/01/2023,Budi Santoso,Selatan,111.09,11,Electronics,224.96,270.20,Returning,0.28,Cash,Retail
+1470,22/10/2023,Dewi Lestari,Timur,3096.50,12,Food,453.80,494.69,New,0.00,Bank Transfer,Retail
+1471,26/01/2023,Dewi Lestari,Timur,141.84,12,Food,203.76,229.52,New,0.01,Credit Card,Online
+1472,03/08/2023,Ahmad Fauzan,Timur,1647.34,8,Furniture,220.32,259.95,New,0.02,Credit Card,Online
+1473,09/11/2023,Dewi Lestari,Timur,6414.84,12,Electronics,564.00,596.99,New,0.10,Cash,Online
+1474,11/08/2023,Dewi Lestari,Barat,1634.09,12,Clothing,535.84,557.18,Returning,0.05,Cash,Online
+1475,25/12/2023,Dewi Lestari,Timur,3537.84,12,Food,100.00,200.00,Returning,0.07,Bank Transfer,Retail
+1476,12/01/2023,Dewi Lestari,Utara,371.52,12,Furniture,497.76,520.76,New,0.18,Credit Card,Retail
+1477,01/01/2023,Dewi Lestari,Timur,8709.56,12,Clothing,528.46,556.07,New,0.17,Credit Card,Online
+1478,10/11/2023,Rizky Pratama,Barat,4671.62,12,Food,225.18,249.04,Returning,0.16,Cash,Online
+1479,27/08/2023,Siti Aisyah,Barat,1023.08,10,Furniture,287.17,318.42,New,0.23,Cash,Retail
+1480,05/06/2023,Rizky Pratama,Timur,8259.50,35,Clothing,235.74,351.51,Returning,0.00,Bank Transfer,Online
+1481,12/01/2023,Dewi Lestari,Utara,2380.10,17,Furniture,264.17,400.01,Returning,0.02,Bank Transfer,Retail
+1482,05/08/2023,Dewi Lestari,Utara,1585.25,48,Food,217.50,339.76,New,0.02,Cash,Retail
+1483,09/02/2023,Dewi Lestari,Timur,1245.62,48,Food,244.08,351.62,Returning,0.11,Cash,Retail
+1484,01/07/2023,Rizky Pratama,Timur,8446.69,12,Food,106.95,226.07,Returning,0.11,Credit Card,Online
+1485,03/11/2023,Rizky Pratama,Selatan,8871.69,35,Food,293.28,383.99,Returning,0.08,Cash,Online
+1486,09/03/2023,Ahmad Fauzan,Timur,5556.03,46,Furniture,249.64,384.56,New,0.28,Cash,Retail
+1487,17/04/2023,Rizky Pratama,Barat,7313.89,26,Food,178.62,288.88,New,0.17,Bank Transfer,Online
+1488,21/06/2023,Budi Santoso,Selatan,6563.33,42,Food,131.72,264.31,Returning,0.29,Cash,Online
+1489,03/10/2023,Siti Aisyah,Utara,4991.69,15,Food,197.10,270.63,Returning,0.24,Bank Transfer,Online
+1490,17/01/2023,Budi Santoso,Barat,5594.01,13,Furniture,346.86,390.43,New,0.00,Bank Transfer,Online
+1491,15/08/2023,Budi Santoso,Selatan,927.01,18,Furniture,397.94,470.98,Returning,0.03,Credit Card,Retail
+1492,11/05/2023,Siti Aisyah,Timur,7032.94,13,Food,192.97,247.41,New,0.03,Credit Card,Retail
+1493,14/10/2023,Ahmad Fauzan,Barat,3912.71,18,Furniture,370.02,405.71,New,0.10,Credit Card,Retail
+1494,20/06/2023,Siti Aisyah,Barat,4771.97,18,Clothing,295.68,357.09,Returning,0.09,Bank Transfer,Retail
+1495,28/02/2023,Dewi Lestari,Selatan,4174.38,18,Furniture,405.15,476.75,New,0.09,Credit Card,Retail
+1496,30/11/2023,Siti Aisyah,Selatan,7900.24,18,Food,199.16,255.75,New,0.26,Credit Card,Retail
+1497,02/08/2023,Rizky Pratama,Utara,6800.38,18,Furniture,258.32,322.29,New,0.24,Bank Transfer,Online
+1498,01/06/2023,Dewi Lestari,Timur,7136.75,13,Clothing,225.31,296.00,Returning,0.28,Credit Card,Retail
+1499,28/03/2023,Siti Aisyah,Barat,8026.04,18,Electronics,331.34,373.95,Returning,0.23,Bank Transfer,Retail
+1500,09/07/2023,Siti Aisyah,Barat,8121.54,12,Electronics,120.00,230.00,Returning,0.00,Bank Transfer,Online
+1501,07/12/2023,Dewi Lestari,Timur,9812.69,9,Electronics,220.70,240.24,New,0.02,Bank Transfer,Retail
+1502,07/11/2023,Siti Aisyah,Selatan,9902.45,12,Electronics,310.65,327.43,New,0.01,Cash,Retail
+1503,06/06/2023,Rizky Pratama,Selatan,7487.21,12,Clothing,513.67,529.73,Returning,0.14,Credit Card,Retail
+1504,11/04/2023,Ahmad Fauzan,Selatan,4154.55,12,Clothing,531.27,565.53,Returning,0.07,Cash,Retail
+1505,22/05/2023,Siti Aisyah,Timur,4795.54,12,Food,481.05,496.84,Returning,0.12,Credit Card,Retail
+1506,04/05/2023,Budi Santoso,Selatan,400.48,12,Furniture,415.77,448.99,Returning,0.17,Cash,Retail
+1507,25/06/2023,Budi Santoso,Utara,4386.91,6,Food,562.37,595.23,New,0.30,Credit Card,Online
+1508,12/03/2023,Budi Santoso,Barat,8384.08,12,Electronics,577.24,618.00,Returning,0.16,Bank Transfer,Online
+1509,09/08/2023,Dewi Lestari,Barat,7285.71,7,Furniture,586.98,626.20,New,0.23,Cash,Online
+1510,21/10/2023,Ahmad Fauzan,Utara,4467.62,30,Furniture,226.70,348.13,New,0.00,Credit Card,Retail
+1511,05/09/2023,Dewi Lestari,Timur,9952.46,12,Clothing,116.38,181.39,Returning,0.01,Cash,Retail
+1512,02/01/2023,Siti Aisyah,Timur,5830.32,44,Clothing,107.27,199.77,New,0.03,Cash,Retail
+1513,28/06/2023,Budi Santoso,Utara,5144.99,15,Clothing,157.86,266.34,New,0.11,Credit Card,Online
+1514,07/07/2023,Budi Santoso,Timur,4574.89,22,Food,275.52,413.12,New,0.09,Credit Card,Online
+1515,26/01/2023,Dewi Lestari,Selatan,9463.26,12,Electronics,201.32,330.60,New,0.08,Credit Card,Online
+1516,12/01/2023,Budi Santoso,Utara,4807.12,47,Food,213.99,277.45,Returning,0.23,Bank Transfer,Retail
+1517,12/09/2023,Budi Santoso,Selatan,3128.08,36,Clothing,180.06,243.52,Returning,0.18,Credit Card,Retail
+1518,25/03/2023,Dewi Lestari,Barat,7908.76,12,Food,196.06,258.39,New,0.20,Bank Transfer,Online
+1519,30/03/2023,Budi Santoso,Timur,8835.85,12,Furniture,211.48,278.75,New,0.30,Credit Card,Online
+1520,02/09/2023,Budi Santoso,Timur,7273.88,8,Clothing,319.46,383.55,New,0.00,Cash,Retail
+1521,28/01/2023,Siti Aisyah,Barat,4123.44,8,Clothing,235.47,303.43,New,0.03,Credit Card,Online
+1522,26/01/2023,Rizky Pratama,Timur,3653.15,18,Food,356.21,434.62,New,0.02,Cash,Online
+1523,20/09/2023,Budi Santoso,Timur,9473.15,15,Clothing,275.08,354.95,New,0.09,Credit Card,Online
+1524,13/05/2023,Budi Santoso,Selatan,5675.67,8,Furniture,320.97,382.42,New,0.08,Bank Transfer,Online
+1525,13/01/2023,Rizky Pratama,Barat,7519.89,18,Food,264.61,344.41,New,0.08,Credit Card,Online
+1526,01/07/2023,Ahmad Fauzan,Barat,6838.44,18,Food,281.24,358.64,New,0.21,Bank Transfer,Retail
+1527,22/11/2023,Budi Santoso,Utara,7247.77,18,Clothing,212.08,267.80,Returning,0.22,Credit Card,Retail
+1528,24/11/2023,Siti Aisyah,Barat,2534.76,18,Furniture,274.59,319.41,Returning,0.21,Bank Transfer,Online
+1529,21/11/2023,Budi Santoso,Utara,5045.75,10,Furniture,342.13,399.19,New,0.25,Credit Card,Online
+1530,29/11/2023,Budi Santoso,Utara,255.59,12,Clothing,421.65,471.56,New,0.00,Credit Card,Online
+1531,26/08/2023,Rizky Pratama,Barat,8375.40,12,Clothing,436.71,470.12,New,0.02,Bank Transfer,Online
+1532,21/05/2023,Ahmad Fauzan,Selatan,1211.69,4,Electronics,302.00,336.15,Returning,0.03,Bank Transfer,Retail
+1533,09/09/2023,Budi Santoso,Timur,4272.30,12,Food,497.65,530.88,New,0.10,Bank Transfer,Online
+1534,30/10/2023,Ahmad Fauzan,Timur,9060.99,12,Food,460.71,489.61,New,0.09,Credit Card,Retail
+1535,04/11/2023,Ahmad Fauzan,Selatan,2184.28,12,Food,211.01,237.30,New,0.14,Cash,Retail
+1536,13/03/2023,Siti Aisyah,Utara,4990.75,12,Food,529.73,563.15,New,0.20,Cash,Retail
+1537,06/02/2023,Siti Aisyah,Barat,1595.90,12,Electronics,520.24,536.92,New,0.28,Credit Card,Retail
+1538,18/07/2023,Ahmad Fauzan,Barat,9333.06,12,Furniture,386.91,428.72,Returning,0.17,Cash,Online
+1539,07/08/2023,Rizky Pratama,Barat,7871.76,12,Electronics,364.29,381.95,New,0.24,Cash,Retail
+1540,26/05/2023,Siti Aisyah,Utara,2276.06,12,Food,178.27,266.29,New,0.00,Cash,Retail
+1541,08/06/2023,Siti Aisyah,Utara,5351.72,45,Food,114.24,198.62,Returning,0.01,Bank Transfer,Retail
+1542,15/06/2023,Budi Santoso,Timur,4144.01,24,Food,200.98,312.57,New,0.03,Cash,Online
+1543,09/10/2023,Ahmad Fauzan,Selatan,7527.07,33,Electronics,298.96,366.04,Returning,0.08,Credit Card,Online
+1544,15/02/2023,Rizky Pratama,Utara,8948.22,12,Electronics,273.42,360.03,New,0.08,Credit Card,Retail
+1545,07/01/2023,Siti Aisyah,Utara,8335.68,25,Food,151.52,233.29,New,0.09,Credit Card,Online
+1546,25/12/2023,Siti Aisyah,Timur,2025.35,12,Clothing,184.77,303.28,New,0.28,Credit Card,Retail
+1547,10/11/2023,Budi Santoso,Timur,6032.80,42,Electronics,166.29,299.92,New,0.22,Credit Card,Online
+1548,14/04/2023,Rizky Pratama,Utara,5304.22,45,Food,104.71,206.41,New,0.25,Cash,Retail
+1549,23/12/2023,Dewi Lestari,Barat,1830.14,31,Furniture,289.09,399.82,Returning,0.27,Credit Card,Retail
+1550,11/01/2023,Ahmad Fauzan,Timur,5713.75,18,Electronics,418.74,479.32,Returning,0.00,Cash,Online
+1551,20/12/2023,Siti Aisyah,Barat,8771.62,14,Food,379.46,421.00,Returning,0.03,Bank Transfer,Online
+1552,26/03/2023,Siti Aisyah,Timur,1417.56,18,Furniture,194.94,269.56,New,0.02,Cash,Online
+1553,25/03/2023,Siti Aisyah,Selatan,1643.04,18,Furniture,400.05,449.62,New,0.08,Cash,Retail
+1554,22/02/2023,Dewi Lestari,Utara,4975.06,8,Furniture,309.83,373.73,New,0.11,Bank Transfer,Online
+1555,22/12/2023,Rizky Pratama,Timur,3007.32,18,Clothing,395.48,441.63,New,0.10,Cash,Online
+1556,15/09/2023,Dewi Lestari,Selatan,8732.73,12,Electronics,422.95,501.24,New,0.18,Bank Transfer,Online
+1557,06/12/2023,Rizky Pratama,Selatan,7688.25,18,Furniture,280.02,321.52,New,0.23,Bank Transfer,Retail
+1558,16/11/2023,Ahmad Fauzan,Barat,1028.18,18,Furniture,272.22,319.84,New,0.18,Bank Transfer,Retail
+1559,18/05/2023,Rizky Pratama,Timur,4639.42,18,Food,321.39,383.96,New,0.17,Cash,Retail
+1560,27/09/2023,Budi Santoso,Utara,4039.17,12,Furniture,239.16,284.10,New,0.00,Cash,Online
+1561,27/11/2023,Siti Aisyah,Utara,2640.49,12,Furniture,370.43,386.35,Returning,0.04,Bank Transfer,Online
+1562,19/02/2023,Siti Aisyah,Barat,319.86,6,Food,362.32,407.73,New,0.03,Bank Transfer,Retail
+1563,27/09/2023,Rizky Pratama,Utara,3466.90,12,Furniture,425.14,451.62,Returning,0.09,Bank Transfer,Retail
+1564,19/08/2023,Rizky Pratama,Utara,7973.29,12,Clothing,566.03,608.29,Returning,0.11,Cash,Online
+1565,16/06/2023,Ahmad Fauzan,Utara,3914.94,12,Furniture,250.21,289.34,Returning,0.09,Credit Card,Retail
+1566,03/04/2023,Budi Santoso,Selatan,3472.09,12,Food,597.09,627.47,Returning,0.29,Credit Card,Retail
+1567,25/06/2023,Rizky Pratama,Barat,8995.21,12,Furniture,471.33,519.92,Returning,0.27,Cash,Online
+1568,20/01/2023,Dewi Lestari,Selatan,2806.88,8,Clothing,490.00,530.12,New,0.23,Bank Transfer,Retail
+1569,23/08/2023,Dewi Lestari,Utara,822.67,12,Furniture,315.34,364.21,New,0.28,Credit Card,Online
+1570,07/04/2023,Ahmad Fauzan,Timur,1925.19,31,Furniture,175.36,305.03,Returning,0.00,Bank Transfer,Online
+1571,08/11/2023,Rizky Pratama,Timur,4255.81,12,Clothing,290.48,359.30,New,0.02,Cash,Online
+1572,21/09/2023,Siti Aisyah,Selatan,7599.18,12,Food,184.76,300.62,Returning,0.03,Credit Card,Retail
+1573,01/11/2023,Siti Aisyah,Selatan,5937.88,35,Electronics,184.39,279.45,Returning,0.06,Cash,Retail
+1574,11/05/2023,Budi Santoso,Timur,3671.37,16,Food,246.95,326.15,Returning,0.10,Bank Transfer,Retail
+1575,19/04/2023,Dewi Lestari,Selatan,5022.60,12,Food,100.00,200.00,Returning,0.13,Cash,Retail
+1576,02/02/2023,Siti Aisyah,Selatan,8700.96,12,Clothing,236.24,374.88,New,0.30,Credit Card,Online
+1577,02/08/2023,Rizky Pratama,Timur,244.80,48,Food,236.84,372.86,New,0.21,Cash,Retail
+1578,22/12/2023,Ahmad Fauzan,Utara,9073.84,41,Food,213.70,297.44,New,0.23,Bank Transfer,Online
+1579,20/12/2023,Siti Aisyah,Utara,6118.83,24,Electronics,259.81,333.05,New,0.21,Cash,Retail
+1580,15/05/2023,Budi Santoso,Timur,3216.76,18,Food,377.49,426.60,New,0.00,Bank Transfer,Online
+1581,21/07/2023,Dewi Lestari,Barat,396.46,13,Electronics,211.39,257.86,New,0.04,Bank Transfer,Online
+1582,13/07/2023,Ahmad Fauzan,Selatan,1171.04,18,Furniture,404.59,461.74,New,0.01,Credit Card,Online
+1583,11/04/2023,Siti Aisyah,Selatan,4749.22,8,Electronics,439.34,491.40,Returning,0.10,Credit Card,Retail
+1584,15/10/2023,Budi Santoso,Utara,4507.45,18,Food,253.42,313.32,Returning,0.07,Credit Card,Online
+1585,30/06/2023,Siti Aisyah,Utara,9606.39,18,Clothing,200.48,236.55,Returning,0.09,Cash,Retail
+1586,21/06/2023,Budi Santoso,Selatan,369.07,8,Furniture,288.05,347.84,New,0.20,Bank Transfer,Online
+1587,08/12/2023,Dewi Lestari,Utara,8387.57,10,Clothing,407.43,485.72,Returning,0.26,Credit Card,Retail
+1588,21/02/2023,Budi Santoso,Barat,1792.75,18,Food,265.92,311.40,New,0.18,Credit Card,Online
+1589,28/11/2023,Ahmad Fauzan,Timur,1054.72,18,Clothing,436.83,481.79,New,0.17,Bank Transfer,Online
+1590,29/03/2023,Ahmad Fauzan,Selatan,2909.67,12,Furniture,266.84,282.90,New,0.00,Cash,Online
+1591,28/04/2023,Rizky Pratama,Selatan,7022.54,12,Food,575.10,608.64,Returning,0.01,Credit Card,Online
+1592,27/06/2023,Siti Aisyah,Timur,1700.31,12,Clothing,424.96,453.43,New,0.02,Bank Transfer,Online
+1593,22/09/2023,Ahmad Fauzan,Timur,4074.79,6,Food,451.39,498.10,New,0.07,Cash,Online
+1594,23/01/2023,Siti Aisyah,Utara,984.63,12,Clothing,208.06,249.50,Returning,0.11,Credit Card,Online
+1595,21/01/2023,Dewi Lestari,Barat,8538.03,12,Food,449.30,488.71,Returning,0.10,Bank Transfer,Retail
+1596,09/12/2023,Budi Santoso,Barat,5771.15,12,Clothing,596.27,643.03,Returning,0.24,Cash,Retail
+1597,13/10/2023,Siti Aisyah,Utara,2982.15,11,Furniture,423.05,449.71,New,0.19,Cash,Online
+1598,15/03/2023,Dewi Lestari,Selatan,6563.60,12,Food,462.64,492.65,New,0.16,Credit Card,Retail
+1599,22/02/2023,Dewi Lestari,Selatan,6082.64,8,Clothing,225.21,273.49,New,0.24,Credit Card,Online
+1600,26/03/2023,Siti Aisyah,Selatan,8601.49,12,Electronics,120.00,230.00,Returning,0.00,Bank Transfer,Online
+1601,26/09/2023,Siti Aisyah,Barat,7263.21,15,Electronics,266.85,375.59,Returning,0.03,Bank Transfer,Online
+1602,19/08/2023,Dewi Lestari,Utara,3270.07,44,Electronics,153.72,272.67,Returning,0.02,Credit Card,Retail
+1603,17/08/2023,Siti Aisyah,Utara,5870.69,18,Clothing,199.38,330.61,Returning,0.12,Credit Card,Online
+1604,14/11/2023,Siti Aisyah,Barat,4409.84,28,Food,177.57,247.95,New,0.09,Cash,Online
+1605,17/11/2023,Dewi Lestari,Timur,2844.91,26,Electronics,206.34,344.81,Returning,0.07,Cash,Retail
+1606,14/10/2023,Budi Santoso,Barat,1707.32,20,Food,264.50,397.09,Returning,0.25,Bank Transfer,Retail
+1607,11/04/2023,Dewi Lestari,Utara,1705.05,42,Food,297.51,429.29,Returning,0.27,Credit Card,Online
+1608,25/11/2023,Dewi Lestari,Selatan,5016.09,21,Electronics,179.71,246.55,New,0.25,Bank Transfer,Online
+1609,29/06/2023,Ahmad Fauzan,Barat,5010.17,40,Food,210.95,288.23,New,0.22,Bank Transfer,Online
+1610,12/01/2023,Ahmad Fauzan,Utara,4910.51,18,Furniture,282.11,320.90,Returning,0.00,Cash,Online
+1611,07/02/2023,Dewi Lestari,Utara,6685.70,18,Electronics,288.27,346.74,Returning,0.03,Credit Card,Online
+1612,27/02/2023,Siti Aisyah,Timur,5269.04,18,Food,171.45,240.52,New,0.03,Cash,Retail
+1613,15/06/2023,Budi Santoso,Selatan,8602.91,18,Furniture,270.64,329.57,Returning,0.13,Bank Transfer,Retail
+1614,04/08/2023,Ahmad Fauzan,Utara,2611.77,14,Clothing,421.96,474.35,Returning,0.09,Credit Card,Online
+1615,03/08/2023,Rizky Pratama,Selatan,8336.94,18,Furniture,308.22,378.58,New,0.12,Credit Card,Online
+1616,22/07/2023,Rizky Pratama,Utara,9847.95,18,Food,434.79,474.39,Returning,0.28,Cash,Online
+1617,04/09/2023,Budi Santoso,Barat,5073.93,18,Furniture,175.11,216.81,Returning,0.28,Bank Transfer,Retail
+1618,15/01/2023,Dewi Lestari,Barat,6500.60,18,Food,289.74,343.04,Returning,0.16,Credit Card,Online
+1619,08/04/2023,Dewi Lestari,Timur,9041.19,18,Clothing,243.26,281.96,Returning,0.25,Cash,Retail
+1620,24/04/2023,Budi Santoso,Barat,8567.26,12,Clothing,235.28,269.30,New,0.00,Cash,Retail
+1621,17/08/2023,Budi Santoso,Timur,8806.38,12,Electronics,360.51,377.43,Returning,0.01,Bank Transfer,Online
+1622,05/01/2023,Siti Aisyah,Barat,7880.63,12,Food,504.12,528.45,New,0.04,Cash,Online
+1623,03/01/2023,Siti Aisyah,Utara,3226.83,4,Electronics,557.87,577.81,Returning,0.06,Bank Transfer,Online
+1624,25/02/2023,Budi Santoso,Utara,5753.40,12,Clothing,278.64,321.55,Returning,0.12,Bank Transfer,Retail
+1625,30/12/2023,Dewi Lestari,Timur,7227.87,12,Clothing,359.45,390.80,New,0.07,Bank Transfer,Retail
+1626,14/10/2023,Siti Aisyah,Timur,1514.20,6,Furniture,557.89,588.15,New,0.19,Credit Card,Retail
+1627,29/04/2023,Siti Aisyah,Barat,4125.39,4,Furniture,506.00,552.58,New,0.20,Bank Transfer,Online
+1628,17/08/2023,Siti Aisyah,Timur,3970.66,12,Clothing,215.58,238.06,New,0.25,Bank Transfer,Retail
+1629,14/02/2023,Dewi Lestari,Selatan,6949.57,12,Furniture,480.64,528.61,New,0.27,Cash,Retail
+1630,19/09/2023,Budi Santoso,Barat,806.06,38,Food,150.76,252.76,New,0.00,Credit Card,Online
+1631,22/03/2023,Rizky Pratama,Utara,3341.58,36,Clothing,261.36,394.58,New,0.01,Credit Card,Online
+1632,05/07/2023,Rizky Pratama,Barat,2831.85,32,Electronics,297.24,380.86,Returning,0.03,Bank Transfer,Retail
+1633,10/05/2023,Dewi Lestari,Utara,4234.73,27,Electronics,229.76,317.10,Returning,0.14,Credit Card,Online
+1634,16/12/2023,Ahmad Fauzan,Selatan,9673.38,17,Clothing,125.75,187.84,Returning,0.12,Cash,Retail
+1635,16/08/2023,Siti Aisyah,Timur,4910.52,43,Clothing,125.29,221.54,Returning,0.13,Credit Card,Retail
+1636,30/11/2023,Siti Aisyah,Selatan,9559.47,46,Electronics,137.56,270.70,Returning,0.16,Bank Transfer,Online
+1637,14/08/2023,Dewi Lestari,Barat,8665.12,33,Food,174.63,285.70,Returning,0.21,Cash,Online
+1638,03/01/2023,Ahmad Fauzan,Utara,4650.60,27,Food,105.62,191.94,Returning,0.17,Cash,Retail
+1639,22/02/2023,Siti Aisyah,Barat,908.13,12,Clothing,106.20,181.72,New,0.19,Cash,Retail
+1640,27/01/2023,Ahmad Fauzan,Barat,2489.79,18,Clothing,436.54,504.17,New,0.00,Credit Card,Retail
+1641,16/07/2023,Ahmad Fauzan,Utara,1449.11,18,Electronics,445.38,500.35,New,0.04,Credit Card,Retail
+1642,21/04/2023,Rizky Pratama,Selatan,6731.04,10,Food,447.17,524.15,New,0.04,Bank Transfer,Online
+1643,10/10/2023,Ahmad Fauzan,Selatan,1540.68,17,Furniture,286.86,333.46,Returning,0.13,Credit Card,Online
+1644,28/10/2023,Siti Aisyah,Timur,2941.26,18,Furniture,415.25,488.79,New,0.12,Cash,Online
+1645,29/08/2023,Ahmad Fauzan,Selatan,9064.32,18,Food,397.45,461.41,Returning,0.06,Credit Card,Retail
+1646,20/08/2023,Siti Aisyah,Barat,9882.06,8,Clothing,422.10,492.39,Returning,0.28,Cash,Retail
+1647,29/03/2023,Ahmad Fauzan,Timur,2532.73,18,Food,162.29,223.14,New,0.27,Bank Transfer,Retail
+1648,22/01/2023,Siti Aisyah,Barat,6530.32,18,Clothing,264.34,307.14,New,0.23,Credit Card,Retail
+1649,21/04/2023,Budi Santoso,Barat,997.44,18,Electronics,348.37,392.82,New,0.28,Credit Card,Online
+1650,10/11/2023,Budi Santoso,Selatan,4975.65,12,Electronics,338.00,378.96,New,0.00,Cash,Online
+1651,28/10/2023,Siti Aisyah,Timur,467.49,12,Food,255.48,300.93,Returning,0.01,Cash,Retail
+1652,08/03/2023,Dewi Lestari,Timur,2740.10,10,Food,532.97,557.14,Returning,0.01,Credit Card,Retail
+1653,25/07/2023,Budi Santoso,Selatan,8218.60,12,Clothing,221.54,253.87,New,0.08,Credit Card,Retail
+1654,04/01/2023,Dewi Lestari,Selatan,8158.07,12,Food,422.47,467.10,New,0.05,Cash,Retail
+1655,05/08/2023,Rizky Pratama,Timur,269.00,12,Furniture,285.28,324.02,Returning,0.06,Credit Card,Retail
+1656,25/07/2023,Budi Santoso,Barat,9628.15,12,Food,360.45,404.10,New,0.17,Cash,Retail
+1657,11/01/2023,Rizky Pratama,Selatan,8663.23,12,Food,381.37,426.80,New,0.26,Cash,Online
+1658,18/11/2023,Siti Aisyah,Selatan,4910.50,12,Electronics,421.77,452.35,Returning,0.17,Credit Card,Retail
+1659,24/12/2023,Rizky Pratama,Timur,6161.54,12,Furniture,217.04,251.18,New,0.17,Bank Transfer,Online
+1660,06/08/2023,Rizky Pratama,Barat,3879.15,30,Furniture,209.36,294.47,Returning,0.00,Cash,Retail
+1661,06/11/2023,Budi Santoso,Utara,6356.10,34,Food,158.41,235.98,Returning,0.01,Bank Transfer,Online
+1662,05/08/2023,Siti Aisyah,Barat,2951.20,12,Clothing,268.23,357.21,New,0.01,Credit Card,Online
+1663,05/08/2023,Dewi Lestari,Utara,7403.33,31,Food,167.49,249.59,Returning,0.06,Bank Transfer,Retail
+1664,19/08/2023,Siti Aisyah,Utara,1080.37,12,Electronics,146.11,272.01,Returning,0.07,Bank Transfer,Retail
+1665,29/12/2023,Ahmad Fauzan,Selatan,1555.52,27,Clothing,172.36,286.70,New,0.10,Bank Transfer,Online
+1666,27/02/2023,Rizky Pratama,Selatan,6880.71,12,Electronics,256.10,378.32,New,0.25,Cash,Retail
+1667,30/12/2023,Ahmad Fauzan,Selatan,1711.09,23,Furniture,276.49,377.17,Returning,0.16,Credit Card,Online
+1668,08/09/2023,Ahmad Fauzan,Barat,7658.80,36,Electronics,221.75,295.89,Returning,0.28,Bank Transfer,Retail
+1669,19/03/2023,Siti Aisyah,Selatan,2821.06,12,Electronics,294.99,410.44,New,0.27,Bank Transfer,Retail
+1670,28/02/2023,Budi Santoso,Utara,6263.39,8,Food,286.56,337.25,New,0.00,Credit Card,Online
+1671,24/12/2023,Dewi Lestari,Selatan,2848.21,8,Furniture,284.14,346.72,New,0.03,Bank Transfer,Online
+1672,19/10/2023,Ahmad Fauzan,Barat,6523.71,8,Electronics,290.76,325.81,New,0.02,Bank Transfer,Online
+1673,25/03/2023,Rizky Pratama,Utara,6750.24,18,Electronics,412.78,448.40,New,0.13,Bank Transfer,Retail
+1674,16/06/2023,Rizky Pratama,Timur,9297.89,18,Clothing,312.93,366.73,New,0.09,Bank Transfer,Online
+1675,21/08/2023,Siti Aisyah,Timur,4515.42,12,Food,100.00,200.00,Returning,0.14,Bank Transfer,Retail
+1676,30/09/2023,Rizky Pratama,Selatan,7827.50,18,Food,194.20,233.72,Returning,0.25,Bank Transfer,Online
+1677,17/07/2023,Siti Aisyah,Utara,3878.39,18,Food,264.66,330.92,New,0.22,Cash,Retail
+1678,18/08/2023,Dewi Lestari,Selatan,4196.25,18,Electronics,190.24,246.46,Returning,0.27,Bank Transfer,Retail
+1679,07/10/2023,Ahmad Fauzan,Barat,9272.20,15,Clothing,175.91,216.89,Returning,0.25,Credit Card,Online
+1680,01/03/2023,Siti Aisyah,Barat,7136.09,10,Food,539.72,569.57,Returning,0.00,Bank Transfer,Online
+1681,19/08/2023,Budi Santoso,Utara,945.44,5,Electronics,377.19,415.31,New,0.01,Bank Transfer,Online
+1682,24/04/2023,Budi Santoso,Barat,9623.79,12,Clothing,511.23,538.90,Returning,0.03,Cash,Retail
+1683,25/02/2023,Ahmad Fauzan,Barat,4973.14,12,Clothing,232.90,271.94,Returning,0.08,Cash,Retail
+1684,05/07/2023,Siti Aisyah,Timur,5391.63,12,Clothing,571.01,605.19,New,0.05,Credit Card,Retail
+1685,30/10/2023,Siti Aisyah,Utara,9397.26,12,Electronics,466.80,513.08,Returning,0.06,Bank Transfer,Retail
+1686,27/06/2023,Dewi Lestari,Selatan,7481.13,12,Furniture,375.93,408.03,New,0.16,Bank Transfer,Retail
+1687,03/02/2023,Budi Santoso,Selatan,235.56,12,Clothing,267.61,303.64,Returning,0.25,Bank Transfer,Online
+1688,30/08/2023,Rizky Pratama,Utara,5957.31,12,Food,305.11,335.74,New,0.20,Cash,Online
+1689,23/10/2023,Rizky Pratama,Selatan,5123.44,4,Electronics,265.77,306.54,Returning,0.24,Cash,Online
+1690,24/07/2023,Rizky Pratama,Selatan,8358.39,29,Clothing,200.86,289.36,Returning,0.00,Cash,Online
+1691,22/01/2023,Rizky Pratama,Timur,8820.05,13,Food,287.81,390.72,Returning,0.02,Cash,Retail
+1692,27/08/2023,Ahmad Fauzan,Barat,3935.83,12,Clothing,205.74,310.25,Returning,0.03,Cash,Retail
+1693,13/11/2023,Budi Santoso,Timur,8385.16,45,Electronics,279.08,413.03,New,0.09,Cash,Retail
+1694,06/10/2023,Siti Aisyah,Utara,5244.25,40,Furniture,130.39,253.58,New,0.07,Bank Transfer,Retail
+1695,19/07/2023,Rizky Pratama,Barat,6593.21,12,Clothing,139.58,275.79,Returning,0.13,Credit Card,Retail
+1696,29/03/2023,Ahmad Fauzan,Utara,8274.87,12,Electronics,117.52,220.67,New,0.22,Credit Card,Online
+1697,01/07/2023,Budi Santoso,Selatan,2107.19,50,Furniture,240.44,315.75,Returning,0.15,Credit Card,Retail
+1698,16/06/2023,Dewi Lestari,Selatan,7237.52,35,Electronics,205.40,309.03,Returning,0.18,Cash,Online
+1699,02/10/2023,Siti Aisyah,Barat,2417.83,12,Furniture,280.43,346.00,Returning,0.16,Credit Card,Online
+1700,16/02/2023,Budi Santoso,Barat,8996.74,12,Electronics,120.00,230.00,Returning,0.00,Credit Card,Online
+1701,05/05/2023,Budi Santoso,Utara,6831.90,8,Clothing,184.38,232.21,Returning,0.02,Cash,Retail
+1702,21/10/2023,Dewi Lestari,Utara,4593.22,10,Clothing,437.12,495.83,Returning,0.02,Bank Transfer,Online
+1703,23/03/2023,Budi Santoso,Utara,8902.34,18,Furniture,356.50,415.98,Returning,0.09,Bank Transfer,Online
+1704,18/11/2023,Ahmad Fauzan,Barat,6247.38,18,Food,325.49,366.44,New,0.09,Credit Card,Online
+1705,17/03/2023,Budi Santoso,Timur,9723.77,8,Clothing,385.65,461.82,New,0.13,Cash,Online
+1706,19/05/2023,Rizky Pratama,Barat,9959.59,18,Clothing,368.62,438.11,Returning,0.17,Credit Card,Retail
+1707,01/10/2023,Budi Santoso,Selatan,3661.88,15,Clothing,349.24,392.08,New,0.19,Credit Card,Online
+1708,04/10/2023,Ahmad Fauzan,Selatan,5022.77,18,Food,310.90,372.51,Returning,0.23,Credit Card,Retail
+1709,02/05/2023,Budi Santoso,Selatan,7898.59,18,Electronics,241.56,310.98,Returning,0.23,Cash,Retail
+1710,09/08/2023,Dewi Lestari,Barat,4529.44,12,Electronics,454.52,474.79,Returning,0.00,Cash,Retail
+1711,24/06/2023,Dewi Lestari,Timur,8803.01,12,Food,344.76,386.02,New,0.03,Bank Transfer,Retail
+1712,15/07/2023,Budi Santoso,Timur,807.57,12,Clothing,289.26,318.98,New,0.02,Credit Card,Online
+1713,01/05/2023,Siti Aisyah,Utara,4908.75,12,Electronics,300.62,343.48,New,0.10,Cash,Online
+1714,24/08/2023,Siti Aisyah,Selatan,2260.28,12,Food,389.81,417.74,New,0.12,Cash,Online
+1715,08/06/2023,Rizky Pratama,Timur,3050.83,12,Clothing,408.40,452.91,Returning,0.12,Cash,Retail
+1716,25/12/2023,Ahmad Fauzan,Barat,4669.97,12,Clothing,277.43,299.16,Returning,0.21,Credit Card,Online
+1717,25/07/2023,Budi Santoso,Timur,5390.62,12,Electronics,444.55,474.00,New,0.23,Cash,Retail
+1718,13/09/2023,Budi Santoso,Selatan,1704.79,12,Electronics,534.22,563.74,New,0.21,Bank Transfer,Retail
+1719,07/04/2023,Rizky Pratama,Selatan,7140.64,8,Clothing,475.30,520.41,Returning,0.22,Bank Transfer,Online
+1720,18/07/2023,Budi Santoso,Barat,6274.85,35,Furniture,270.78,393.59,New,0.00,Cash,Online
+1721,31/07/2023,Rizky Pratama,Selatan,3682.27,45,Electronics,162.54,250.76,New,0.02,Cash,Retail
+1722,13/08/2023,Siti Aisyah,Utara,5878.81,18,Food,296.74,433.05,New,0.03,Bank Transfer,Online
+1723,20/09/2023,Dewi Lestari,Selatan,7738.45,19,Food,169.58,242.69,New,0.07,Bank Transfer,Online
+1724,01/03/2023,Ahmad Fauzan,Timur,5800.03,20,Furniture,291.82,395.68,Returning,0.06,Bank Transfer,Online
+1725,27/02/2023,Budi Santoso,Barat,7835.42,12,Furniture,220.27,334.81,New,0.10,Cash,Online
+1726,26/12/2023,Siti Aisyah,Utara,6371.15,40,Electronics,252.73,324.69,New,0.19,Cash,Retail
+1727,13/08/2023,Rizky Pratama,Selatan,2140.16,12,Furniture,296.73,417.54,New,0.20,Credit Card,Retail
+1728,02/05/2023,Rizky Pratama,Selatan,9692.07,20,Furniture,228.41,365.77,New,0.28,Credit Card,Online
+1729,22/04/2023,Rizky Pratama,Utara,8398.79,40,Furniture,105.60,228.08,New,0.16,Credit Card,Retail
+1730,04/06/2023,Budi Santoso,Barat,561.93,18,Furniture,420.03,471.17,Returning,0.00,Credit Card,Online
+1731,04/11/2023,Siti Aisyah,Selatan,4591.01,18,Clothing,177.71,249.58,Returning,0.02,Cash,Retail
+1732,02/04/2023,Siti Aisyah,Timur,1698.52,18,Electronics,323.94,386.97,New,0.02,Cash,Online
+1733,08/07/2023,Siti Aisyah,Timur,9364.80,18,Electronics,434.62,499.60,Returning,0.10,Credit Card,Online
+1734,29/12/2023,Ahmad Fauzan,Selatan,4804.91,14,Food,314.44,383.24,New,0.14,Cash,Retail
+1735,27/07/2023,Ahmad Fauzan,Barat,9454.47,16,Clothing,282.09,356.50,New,0.05,Cash,Online
+1736,02/07/2023,Rizky Pratama,Timur,3951.71,18,Electronics,271.96,331.66,Returning,0.26,Credit Card,Online
+1737,09/08/2023,Siti Aisyah,Timur,113.78,18,Food,386.94,439.74,New,0.26,Cash,Retail
+1738,15/02/2023,Siti Aisyah,Utara,277.50,8,Clothing,375.47,423.95,Returning,0.17,Credit Card,Retail
+1739,28/01/2023,Ahmad Fauzan,Timur,2120.02,18,Food,297.25,346.54,New,0.25,Bank Transfer,Online
+1740,15/07/2023,Siti Aisyah,Selatan,2449.60,12,Food,484.49,521.44,Returning,0.00,Bank Transfer,Online
+1741,05/02/2023,Dewi Lestari,Selatan,2156.29,4,Electronics,292.42,319.36,New,0.04,Credit Card,Online
+1742,14/10/2023,Dewi Lestari,Utara,7128.90,12,Clothing,351.93,390.19,Returning,0.03,Credit Card,Retail
+1743,06/08/2023,Siti Aisyah,Utara,7776.86,12,Furniture,292.98,314.87,New,0.06,Credit Card,Online
+1744,16/11/2023,Budi Santoso,Selatan,3723.01,11,Food,490.95,516.65,New,0.10,Credit Card,Retail
+1745,28/02/2023,Siti Aisyah,Timur,2907.88,12,Furniture,425.07,470.05,New,0.07,Credit Card,Online
+1746,22/05/2023,Siti Aisyah,Utara,4363.46,12,Furniture,297.21,320.68,Returning,0.15,Credit Card,Retail
+1747,07/05/2023,Rizky Pratama,Selatan,686.55,11,Food,339.05,381.25,New,0.16,Bank Transfer,Online
+1748,13/07/2023,Budi Santoso,Barat,1129.05,12,Electronics,302.00,335.95,New,0.16,Bank Transfer,Retail
+1749,09/03/2023,Budi Santoso,Barat,9558.40,12,Clothing,435.52,479.00,Returning,0.17,Credit Card,Retail
+1750,03/02/2023,Budi Santoso,Selatan,5603.02,40,Electronics,264.89,375.89,New,0.00,Cash,Online
+1751,27/07/2023,Dewi Lestari,Barat,2347.04,44,Clothing,141.95,206.52,New,0.03,Bank Transfer,Online
+1752,22/08/2023,Budi Santoso,Utara,8550.24,12,Furniture,153.34,277.53,Returning,0.03,Bank Transfer,Retail
+1753,20/04/2023,Dewi Lestari,Timur,8001.77,43,Clothing,269.69,340.10,New,0.14,Bank Transfer,Retail
+1754,02/11/2023,Ahmad Fauzan,Utara,5341.63,28,Furniture,147.79,209.75,Returning,0.07,Credit Card,Retail
+1755,12/08/2023,Budi Santoso,Utara,1362.32,39,Clothing,101.24,203.14,Returning,0.06,Credit Card,Online
+1756,17/09/2023,Siti Aisyah,Utara,7007.68,20,Furniture,171.48,274.74,Returning,0.25,Cash,Retail
+1757,30/09/2023,Ahmad Fauzan,Barat,613.32,26,Clothing,188.16,297.05,Returning,0.18,Cash,Retail
+1758,29/06/2023,Ahmad Fauzan,Utara,3251.71,23,Clothing,274.10,412.76,New,0.16,Credit Card,Retail
+1759,24/02/2023,Ahmad Fauzan,Selatan,4324.16,43,Food,155.62,256.00,New,0.26,Credit Card,Online
+1760,20/01/2023,Ahmad Fauzan,Barat,3919.86,18,Electronics,415.31,461.45,New,0.00,Credit Card,Online
+1761,05/02/2023,Budi Santoso,Utara,8675.65,18,Food,428.57,475.13,Returning,0.02,Credit Card,Online
+1762,21/12/2023,Ahmad Fauzan,Utara,7395.96,18,Food,276.46,327.13,Returning,0.03,Bank Transfer,Retail
+1763,24/04/2023,Dewi Lestari,Timur,7696.41,18,Clothing,336.63,375.51,Returning,0.14,Cash,Retail
+1764,04/07/2023,Budi Santoso,Timur,7571.10,18,Electronics,241.98,316.51,New,0.09,Credit Card,Online
+1765,21/07/2023,Ahmad Fauzan,Selatan,1639.37,10,Clothing,174.52,246.21,New,0.08,Cash,Online
+1766,14/04/2023,Siti Aisyah,Selatan,4528.48,9,Electronics,395.94,448.50,New,0.30,Cash,Retail
+1767,29/10/2023,Dewi Lestari,Timur,6081.34,18,Furniture,332.01,375.13,New,0.23,Cash,Online
+1768,21/09/2023,Dewi Lestari,Selatan,1432.17,13,Food,180.60,242.04,New,0.27,Credit Card,Retail
+1769,01/09/2023,Siti Aisyah,Timur,4976.67,14,Food,188.35,240.46,New,0.24,Credit Card,Online
+1770,27/01/2023,Dewi Lestari,Barat,3988.58,12,Electronics,259.54,306.06,Returning,0.00,Credit Card,Online
+1771,17/05/2023,Dewi Lestari,Selatan,4667.19,12,Electronics,286.96,327.18,New,0.02,Bank Transfer,Online
+1772,01/04/2023,Ahmad Fauzan,Timur,5560.35,12,Clothing,354.54,376.77,New,0.03,Credit Card,Online
+1773,01/03/2023,Ahmad Fauzan,Barat,6576.71,4,Electronics,549.45,598.83,Returning,0.07,Bank Transfer,Retail
+1774,19/12/2023,Dewi Lestari,Barat,3591.31,12,Clothing,243.01,269.05,Returning,0.10,Bank Transfer,Retail
+1775,26/03/2023,Rizky Pratama,Utara,5121.46,12,Furniture,100.00,200.00,Returning,0.13,Bank Transfer,Retail
+1776,12/11/2023,Siti Aisyah,Utara,9824.96,12,Electronics,316.95,352.87,Returning,0.19,Cash,Online
+1777,27/03/2023,Ahmad Fauzan,Utara,4149.99,7,Furniture,248.76,285.01,New,0.16,Credit Card,Online
+1778,20/06/2023,Ahmad Fauzan,Selatan,3226.09,4,Furniture,537.38,581.10,Returning,0.16,Credit Card,Retail
+1779,05/08/2023,Rizky Pratama,Barat,4237.98,12,Clothing,361.14,399.26,Returning,0.27,Credit Card,Retail
+1780,29/11/2023,Dewi Lestari,Timur,1861.92,12,Electronics,117.15,192.91,New,0.00,Bank Transfer,Retail
+1781,25/04/2023,Dewi Lestari,Utara,4845.23,42,Electronics,248.72,328.96,New,0.02,Bank Transfer,Online
+1782,04/03/2023,Ahmad Fauzan,Selatan,9084.74,25,Electronics,273.40,368.44,New,0.02,Cash,Online
+1783,09/04/2023,Siti Aisyah,Selatan,7452.48,12,Furniture,129.04,204.55,Returning,0.12,Credit Card,Retail
+1784,13/02/2023,Rizky Pratama,Timur,6302.73,46,Food,230.36,312.51,New,0.14,Bank Transfer,Retail
+1785,22/09/2023,Dewi Lestari,Utara,5742.82,12,Furniture,159.32,261.14,New,0.12,Bank Transfer,Online
+1786,10/06/2023,Dewi Lestari,Barat,2204.23,24,Clothing,102.24,169.92,New,0.25,Cash,Retail
+1787,04/02/2023,Rizky Pratama,Selatan,7304.74,32,Clothing,247.94,371.00,New,0.19,Cash,Retail
+1788,13/12/2023,Dewi Lestari,Selatan,8732.40,34,Clothing,197.05,329.14,New,0.19,Bank Transfer,Retail
+1789,11/11/2023,Ahmad Fauzan,Utara,7370.42,37,Electronics,147.33,263.27,New,0.20,Credit Card,Retail
+1790,09/04/2023,Dewi Lestari,Selatan,4450.74,18,Food,182.21,260.00,Returning,0.00,Credit Card,Online
+1791,21/07/2023,Ahmad Fauzan,Timur,6079.40,18,Electronics,429.10,467.95,Returning,0.02,Bank Transfer,Online
+1792,26/12/2023,Rizky Pratama,Utara,6870.31,18,Electronics,435.04,473.23,New,0.02,Credit Card,Retail
+1793,05/11/2023,Ahmad Fauzan,Timur,3461.91,18,Electronics,409.57,465.39,New,0.10,Credit Card,Retail
+1794,12/06/2023,Ahmad Fauzan,Barat,1138.50,18,Electronics,345.16,415.61,Returning,0.08,Credit Card,Online
+1795,11/05/2023,Ahmad Fauzan,Timur,1202.24,18,Food,282.20,356.73,New,0.07,Bank Transfer,Retail
+1796,26/09/2023,Siti Aisyah,Timur,8336.12,18,Food,415.26,485.60,Returning,0.25,Credit Card,Retail
+1797,02/11/2023,Siti Aisyah,Barat,7261.57,18,Electronics,259.99,326.10,Returning,0.27,Credit Card,Retail
+1798,05/05/2023,Ahmad Fauzan,Utara,3218.12,18,Food,374.69,426.87,New,0.28,Cash,Retail
+1799,29/05/2023,Ahmad Fauzan,Timur,4971.14,8,Electronics,409.57,446.17,New,0.18,Credit Card,Retail
+1800,26/04/2023,Rizky Pratama,Utara,8552.93,12,Electronics,120.00,230.00,Returning,0.00,Credit Card,Online
+1801,07/03/2023,Budi Santoso,Barat,9319.23,12,Clothing,418.96,463.55,Returning,0.02,Bank Transfer,Retail
+1802,02/08/2023,Rizky Pratama,Barat,7895.60,12,Food,418.30,448.75,New,0.02,Bank Transfer,Retail
+1803,23/06/2023,Budi Santoso,Timur,8072.64,12,Electronics,543.98,578.83,Returning,0.13,Bank Transfer,Retail
+1804,25/09/2023,Siti Aisyah,Selatan,9938.69,12,Electronics,306.06,354.47,Returning,0.11,Bank Transfer,Online
+1805,30/06/2023,Ahmad Fauzan,Utara,7204.74,12,Food,226.35,263.88,Returning,0.05,Credit Card,Retail
+1806,30/04/2023,Rizky Pratama,Barat,5809.21,12,Clothing,533.01,552.75,Returning,0.29,Cash,Retail
+1807,21/05/2023,Rizky Pratama,Utara,5318.71,12,Clothing,242.50,264.79,Returning,0.25,Cash,Retail
+1808,09/07/2023,Ahmad Fauzan,Timur,4027.95,12,Furniture,599.67,648.86,New,0.26,Cash,Online
+1809,14/06/2023,Budi Santoso,Timur,7076.20,12,Clothing,593.57,619.06,New,0.15,Cash,Online
+1810,22/12/2023,Ahmad Fauzan,Timur,3173.86,24,Electronics,271.64,355.43,Returning,0.00,Credit Card,Retail
+1811,19/02/2023,Rizky Pratama,Selatan,755.36,22,Electronics,185.21,300.57,Returning,0.02,Bank Transfer,Retail
+1812,08/01/2023,Ahmad Fauzan,Timur,2137.18,37,Furniture,188.08,268.00,New,0.02,Bank Transfer,Retail
+1813,19/07/2023,Budi Santoso,Barat,4860.02,17,Electronics,220.16,309.30,Returning,0.09,Bank Transfer,Online
+1814,14/08/2023,Dewi Lestari,Utara,2547.57,14,Clothing,215.80,305.73,Returning,0.11,Bank Transfer,Retail
+1815,10/10/2023,Dewi Lestari,Barat,2908.40,50,Furniture,131.10,214.91,Returning,0.07,Bank Transfer,Online
+1816,15/12/2023,Siti Aisyah,Selatan,6927.58,48,Clothing,157.52,267.47,New,0.26,Bank Transfer,Online
+1817,16/08/2023,Siti Aisyah,Selatan,8618.91,12,Electronics,262.11,336.31,Returning,0.26,Bank Transfer,Retail
+1818,09/08/2023,Ahmad Fauzan,Barat,1745.47,12,Food,270.79,399.50,Returning,0.25,Bank Transfer,Retail
+1819,14/11/2023,Ahmad Fauzan,Utara,6766.90,45,Electronics,154.61,221.20,Returning,0.17,Bank Transfer,Retail
+1820,09/09/2023,Siti Aisyah,Selatan,8308.99,18,Food,433.09,504.29,New,0.00,Bank Transfer,Online
+1821,30/10/2023,Ahmad Fauzan,Selatan,3324.68,11,Electronics,447.32,514.84,New,0.04,Credit Card,Retail
+1822,25/01/2023,Ahmad Fauzan,Selatan,9493.85,18,Food,395.15,472.85,New,0.04,Bank Transfer,Retail
+1823,27/03/2023,Rizky Pratama,Utara,8645.76,8,Electronics,319.62,378.85,New,0.12,Credit Card,Online
+1824,09/04/2023,Rizky Pratama,Selatan,7613.12,10,Food,313.64,355.75,New,0.09,Cash,Retail
+1825,01/07/2023,Dewi Lestari,Barat,8703.23,18,Furniture,335.06,377.88,New,0.12,Credit Card,Retail
+1826,13/03/2023,Siti Aisyah,Barat,7217.67,18,Furniture,283.46,349.73,New,0.29,Cash,Online
+1827,10/04/2023,Siti Aisyah,Selatan,4291.33,18,Clothing,319.42,371.03,New,0.18,Bank Transfer,Online
+1828,13/09/2023,Dewi Lestari,Utara,5085.32,18,Clothing,336.35,392.54,New,0.21,Bank Transfer,Retail
+1829,14/04/2023,Siti Aisyah,Utara,174.44,18,Food,348.45,427.37,Returning,0.20,Bank Transfer,Retail
+1830,09/07/2023,Budi Santoso,Utara,220.51,10,Furniture,239.08,261.72,Returning,0.00,Credit Card,Online
+1831,15/11/2023,Siti Aisyah,Selatan,2654.06,9,Furniture,206.05,245.25,Returning,0.01,Credit Card,Retail
+1832,23/11/2023,Ahmad Fauzan,Barat,5571.41,12,Food,508.06,533.65,New,0.04,Credit Card,Retail
+1833,02/02/2023,Dewi Lestari,Utara,8384.95,12,Furniture,304.42,331.64,New,0.08,Bank Transfer,Online
+1834,29/01/2023,Rizky Pratama,Selatan,8056.59,12,Clothing,206.73,224.08,Returning,0.13,Bank Transfer,Online
+1835,20/02/2023,Budi Santoso,Utara,2307.60,12,Electronics,598.49,621.12,New,0.13,Credit Card,Retail
+1836,17/03/2023,Siti Aisyah,Barat,2058.23,8,Clothing,413.13,461.86,Returning,0.27,Bank Transfer,Retail
+1837,07/04/2023,Dewi Lestari,Barat,5344.98,4,Food,331.48,367.05,New,0.20,Bank Transfer,Online
+1838,08/02/2023,Ahmad Fauzan,Timur,2470.46,12,Electronics,267.86,294.00,New,0.20,Cash,Retail
+1839,23/10/2023,Ahmad Fauzan,Utara,197.54,12,Clothing,418.14,460.41,Returning,0.23,Cash,Online
+1840,15/12/2023,Dewi Lestari,Timur,2047.66,32,Furniture,279.60,363.17,New,0.00,Credit Card,Online
+1841,29/09/2023,Budi Santoso,Utara,5029.65,41,Furniture,221.91,284.99,Returning,0.01,Credit Card,Online
+1842,23/08/2023,Rizky Pratama,Barat,1289.19,14,Clothing,200.04,269.59,Returning,0.03,Credit Card,Online
+1843,29/05/2023,Budi Santoso,Barat,1107.89,12,Furniture,123.58,243.81,Returning,0.14,Credit Card,Online
+1844,05/06/2023,Ahmad Fauzan,Selatan,6293.02,20,Food,109.55,224.82,Returning,0.10,Cash,Online
+1845,04/05/2023,Siti Aisyah,Utara,4528.90,12,Clothing,195.86,304.60,Returning,0.09,Bank Transfer,Retail
+1846,12/07/2023,Budi Santoso,Barat,553.66,41,Clothing,263.70,330.20,Returning,0.25,Bank Transfer,Retail
+1847,27/07/2023,Budi Santoso,Barat,6192.96,44,Electronics,253.55,328.80,Returning,0.25,Credit Card,Online
+1848,01/08/2023,Dewi Lestari,Utara,5199.01,22,Food,156.15,260.24,New,0.28,Credit Card,Retail
+1849,11/03/2023,Dewi Lestari,Barat,1334.94,49,Electronics,205.94,337.78,Returning,0.28,Bank Transfer,Retail
+1850,28/05/2023,Siti Aisyah,Utara,3986.70,18,Electronics,218.98,261.97,Returning,0.00,Cash,Online
+1851,17/10/2023,Rizky Pratama,Selatan,6216.75,14,Clothing,419.81,466.68,New,0.02,Credit Card,Online
+1852,23/01/2023,Dewi Lestari,Timur,6539.14,12,Clothing,152.08,225.18,Returning,0.02,Cash,Retail
+1853,21/07/2023,Budi Santoso,Utara,3598.30,8,Clothing,429.88,468.59,New,0.06,Bank Transfer,Retail
+1854,14/02/2023,Dewi Lestari,Utara,2665.49,18,Electronics,272.66,350.87,Returning,0.07,Credit Card,Online
+1855,12/11/2023,Siti Aisyah,Selatan,6319.06,18,Food,430.83,470.85,Returning,0.06,Credit Card,Online
+1856,13/02/2023,Rizky Pratama,Selatan,4913.49,8,Food,356.13,420.05,New,0.16,Credit Card,Retail
+1857,08/02/2023,Dewi Lestari,Timur,3208.11,12,Clothing,441.80,519.54,New,0.22,Cash,Online
+1858,15/11/2023,Ahmad Fauzan,Barat,7265.87,18,Furniture,308.65,364.38,Returning,0.15,Cash,Online
+1859,02/04/2023,Rizky Pratama,Selatan,6392.03,18,Food,259.53,296.22,Returning,0.19,Bank Transfer,Online
+1860,23/08/2023,Dewi Lestari,Utara,3205.23,12,Electronics,233.10,271.15,New,0.00,Cash,Online
+1861,18/05/2023,Ahmad Fauzan,Utara,3906.78,12,Clothing,560.82,581.83,New,0.03,Credit Card,Retail
+1862,16/10/2023,Dewi Lestari,Utara,7218.92,12,Clothing,446.34,467.74,New,0.04,Bank Transfer,Online
+1863,04/03/2023,Ahmad Fauzan,Barat,1423.86,8,Furniture,497.47,537.81,Returning,0.10,Credit Card,Retail
+1864,28/03/2023,Siti Aisyah,Utara,8977.57,12,Furniture,242.51,289.37,New,0.09,Credit Card,Retail
+1865,06/07/2023,Dewi Lestari,Selatan,3889.57,12,Furniture,249.35,281.05,New,0.13,Cash,Retail
+1866,16/05/2023,Siti Aisyah,Barat,9554.13,12,Food,465.86,486.77,Returning,0.30,Cash,Online
+1867,13/12/2023,Siti Aisyah,Barat,6064.53,5,Food,234.17,253.17,Returning,0.29,Bank Transfer,Online
+1868,24/11/2023,Rizky Pratama,Barat,178.14,4,Electronics,485.33,502.29,New,0.29,Credit Card,Online
+1869,17/04/2023,Ahmad Fauzan,Timur,4270.46,12,Furniture,526.49,565.71,Returning,0.30,Credit Card,Online
+1870,06/08/2023,Rizky Pratama,Utara,3813.95,12,Furniture,221.27,326.80,New,0.00,Bank Transfer,Online
+1871,28/12/2023,Rizky Pratama,Barat,7129.52,47,Electronics,140.20,241.53,New,0.03,Credit Card,Retail
+1872,15/12/2023,Budi Santoso,Selatan,4010.65,12,Electronics,120.47,258.45,Returning,0.03,Credit Card,Online
+1873,05/04/2023,Budi Santoso,Barat,5748.26,34,Furniture,222.77,333.36,Returning,0.09,Credit Card,Online
+1874,14/11/2023,Siti Aisyah,Timur,8787.96,42,Clothing,157.85,258.61,New,0.10,Cash,Online
+1875,23/06/2023,Rizky Pratama,Utara,3872.84,12,Food,100.00,200.00,Returning,0.10,Credit Card,Online
+1876,12/06/2023,Rizky Pratama,Utara,8280.24,38,Food,282.30,418.02,New,0.23,Bank Transfer,Retail
+1877,23/04/2023,Ahmad Fauzan,Barat,3488.91,37,Electronics,274.02,406.79,New,0.28,Cash,Online
+1878,17/06/2023,Rizky Pratama,Barat,4930.88,12,Electronics,159.39,236.58,New,0.23,Cash,Retail
+1879,17/06/2023,Siti Aisyah,Utara,2667.41,12,Food,130.24,213.76,Returning,0.24,Cash,Retail
+1880,02/02/2023,Budi Santoso,Barat,7102.12,8,Clothing,181.13,223.76,New,0.00,Bank Transfer,Retail
+1881,21/05/2023,Budi Santoso,Timur,4897.50,18,Furniture,267.67,341.71,Returning,0.03,Cash,Retail
+1882,29/05/2023,Siti Aisyah,Selatan,3421.82,14,Furniture,429.46,497.31,Returning,0.03,Credit Card,Online
+1883,06/02/2023,Dewi Lestari,Utara,1240.64,16,Furniture,353.12,399.39,Returning,0.08,Cash,Online
+1884,05/08/2023,Dewi Lestari,Timur,8883.14,18,Furniture,320.91,388.01,Returning,0.11,Cash,Online
+1885,25/08/2023,Siti Aisyah,Timur,7073.69,18,Clothing,371.19,418.44,Returning,0.08,Bank Transfer,Online
+1886,14/07/2023,Dewi Lestari,Selatan,1155.95,18,Food,307.01,372.86,Returning,0.16,Credit Card,Online
+1887,21/02/2023,Ahmad Fauzan,Selatan,8591.81,18,Clothing,369.75,425.83,New,0.28,Bank Transfer,Online
+1888,10/04/2023,Dewi Lestari,Barat,2633.02,18,Food,154.14,192.55,New,0.18,Bank Transfer,Retail
+1889,19/05/2023,Rizky Pratama,Timur,1799.53,18,Furniture,227.57,303.94,New,0.28,Bank Transfer,Retail
+1890,02/02/2023,Budi Santoso,Selatan,6542.00,12,Food,360.57,375.97,Returning,0.00,Bank Transfer,Online
+1891,07/04/2023,Dewi Lestari,Timur,807.53,4,Electronics,219.48,242.51,New,0.03,Credit Card,Retail
+1892,03/05/2023,Rizky Pratama,Utara,8075.06,8,Furniture,368.44,402.14,Returning,0.02,Bank Transfer,Retail
+1893,09/07/2023,Dewi Lestari,Utara,5374.24,12,Furniture,532.23,549.42,New,0.05,Cash,Online
+1894,07/05/2023,Budi Santoso,Selatan,4066.50,12,Electronics,511.04,540.73,Returning,0.11,Bank Transfer,Retail
+1895,28/06/2023,Dewi Lestari,Timur,4824.75,12,Clothing,398.40,432.59,New,0.05,Credit Card,Online
+1896,17/12/2023,Siti Aisyah,Selatan,7292.95,12,Clothing,409.56,433.81,New,0.23,Cash,Retail
+1897,20/07/2023,Ahmad Fauzan,Selatan,3860.54,12,Food,459.47,499.42,Returning,0.28,Cash,Retail
+1898,18/12/2023,Ahmad Fauzan,Utara,9395.67,12,Food,302.55,323.63,Returning,0.20,Cash,Online
+1899,11/10/2023,Siti Aisyah,Barat,4768.68,10,Electronics,514.07,539.21,New,0.15,Cash,Online
+1900,21/08/2023,Ahmad Fauzan,Barat,8305.22,12,Electronics,120.00,230.00,Returning,0.00,Bank Transfer,Online
+1901,06/09/2023,Rizky Pratama,Barat,8630.23,18,Food,181.92,282.36,New,0.02,Cash,Retail
+1902,23/09/2023,Ahmad Fauzan,Barat,8050.69,45,Food,120.29,212.58,Returning,0.03,Bank Transfer,Retail
+1903,03/02/2023,Ahmad Fauzan,Barat,124.00,29,Food,224.77,308.10,New,0.13,Bank Transfer,Retail
+1904,31/01/2023,Dewi Lestari,Timur,7915.49,27,Clothing,242.68,365.77,New,0.11,Cash,Retail
+1905,01/09/2023,Budi Santoso,Timur,7201.42,34,Furniture,162.55,248.04,New,0.10,Credit Card,Retail
+1906,09/11/2023,Ahmad Fauzan,Timur,4003.31,13,Furniture,136.55,253.14,New,0.25,Bank Transfer,Online
+1907,31/07/2023,Siti Aisyah,Timur,1315.91,12,Electronics,172.12,299.93,Returning,0.22,Credit Card,Online
+1908,03/08/2023,Dewi Lestari,Selatan,9666.62,36,Food,148.81,230.20,Returning,0.21,Cash,Online
+1909,14/03/2023,Siti Aisyah,Timur,698.56,12,Food,240.10,339.34,New,0.28,Cash,Online
+1910,18/01/2023,Ahmad Fauzan,Selatan,5188.33,18,Furniture,249.58,314.76,Returning,0.00,Bank Transfer,Retail
+1911,19/09/2023,Ahmad Fauzan,Utara,8705.83,14,Clothing,424.87,475.46,New,0.03,Bank Transfer,Online
+1912,05/07/2023,Rizky Pratama,Timur,9424.52,12,Clothing,184.68,230.30,Returning,0.02,Cash,Retail
+1913,12/08/2023,Siti Aisyah,Timur,5331.31,18,Electronics,245.93,314.83,Returning,0.08,Credit Card,Retail
+1914,11/01/2023,Siti Aisyah,Timur,509.47,18,Clothing,243.19,306.95,New,0.06,Credit Card,Retail
+1915,01/09/2023,Rizky Pratama,Selatan,1654.98,18,Furniture,370.02,446.52,New,0.12,Credit Card,Retail
+1916,07/07/2023,Budi Santoso,Selatan,3033.57,18,Food,202.54,256.91,New,0.24,Credit Card,Retail
+1917,11/09/2023,Siti Aisyah,Utara,4827.83,18,Furniture,442.51,492.36,Returning,0.28,Bank Transfer,Online
+1918,11/10/2023,Rizky Pratama,Selatan,8094.98,18,Clothing,336.14,403.57,Returning,0.20,Bank Transfer,Retail
+1919,15/12/2023,Dewi Lestari,Timur,7700.83,8,Clothing,182.37,245.24,New,0.26,Credit Card,Retail
+1920,05/07/2023,Ahmad Fauzan,Selatan,8781.37,12,Clothing,246.35,295.25,New,0.00,Cash,Online
+1921,23/09/2023,Siti Aisyah,Selatan,2377.22,12,Electronics,457.13,483.97,New,0.03,Bank Transfer,Retail
+1922,15/07/2023,Siti Aisyah,Selatan,9516.16,4,Food,426.50,475.87,New,0.04,Credit Card,Retail
+1923,08/02/2023,Siti Aisyah,Timur,9220.92,12,Furniture,395.52,424.86,New,0.07,Credit Card,Retail
+1924,30/08/2023,Rizky Pratama,Selatan,5800.77,10,Electronics,543.32,563.71,Returning,0.08,Credit Card,Online
+1925,26/03/2023,Siti Aisyah,Barat,8716.14,5,Clothing,437.80,462.78,New,0.07,Credit Card,Retail
+1926,15/11/2023,Ahmad Fauzan,Timur,407.84,12,Furniture,379.04,427.63,Returning,0.21,Bank Transfer,Retail
+1927,03/07/2023,Dewi Lestari,Timur,2978.88,4,Clothing,461.70,480.58,Returning,0.26,Cash,Online
+1928,14/11/2023,Ahmad Fauzan,Utara,8786.94,12,Clothing,472.24,521.69,New,0.16,Cash,Retail
+1929,29/12/2023,Dewi Lestari,Selatan,5120.06,4,Furniture,523.85,553.72,Returning,0.17,Bank Transfer,Retail
+1930,26/05/2023,Siti Aisyah,Selatan,739.24,23,Electronics,247.49,343.33,New,0.00,Credit Card,Online
+1931,04/02/2023,Rizky Pratama,Timur,8099.03,18,Furniture,190.22,283.30,Returning,0.03,Credit Card,Retail
+1932,16/01/2023,Dewi Lestari,Selatan,9794.21,12,Clothing,173.52,249.32,New,0.02,Credit Card,Retail
+1933,08/03/2023,Rizky Pratama,Utara,2200.84,12,Furniture,154.07,288.23,New,0.05,Cash,Retail
+1934,06/03/2023,Rizky Pratama,Selatan,2118.21,12,Electronics,155.81,230.42,Returning,0.11,Cash,Retail
+1935,07/05/2023,Ahmad Fauzan,Barat,6041.92,45,Electronics,258.42,385.26,New,0.05,Bank Transfer,Online
+1936,24/10/2023,Budi Santoso,Timur,4116.24,27,Food,233.47,360.22,New,0.16,Cash,Retail
+1937,10/05/2023,Siti Aisyah,Selatan,9385.18,28,Food,106.32,171.91,Returning,0.18,Bank Transfer,Retail
+1938,14/02/2023,Ahmad Fauzan,Utara,4626.46,12,Clothing,157.43,227.30,New,0.28,Credit Card,Online
+1939,22/07/2023,Budi Santoso,Timur,4243.56,49,Furniture,121.68,231.56,Returning,0.21,Bank Transfer,Retail
+1940,27/12/2023,Rizky Pratama,Utara,2080.82,18,Furniture,393.92,470.65,Returning,0.00,Cash,Retail
+1941,17/04/2023,Ahmad Fauzan,Barat,6983.21,18,Clothing,380.53,452.94,Returning,0.02,Credit Card,Online
+1942,29/09/2023,Rizky Pratama,Timur,3471.42,18,Electronics,356.89,436.30,New,0.04,Cash,Online
+1943,01/09/2023,Budi Santoso,Barat,7113.43,18,Furniture,348.97,421.88,Returning,0.11,Cash,Online
+1944,10/03/2023,Siti Aisyah,Timur,7381.18,18,Electronics,267.17,334.51,Returning,0.12,Credit Card,Retail
+1945,18/01/2023,Budi Santoso,Selatan,5791.58,18,Clothing,376.82,411.96,New,0.11,Bank Transfer,Online
+1946,03/07/2023,Ahmad Fauzan,Selatan,5096.91,11,Food,441.57,501.31,Returning,0.27,Cash,Retail
+1947,22/10/2023,Budi Santoso,Barat,8819.66,18,Electronics,196.26,266.84,Returning,0.20,Credit Card,Online
+1948,20/02/2023,Budi Santoso,Timur,6009.90,18,Clothing,358.03,437.12,Returning,0.26,Cash,Online
+1949,15/03/2023,Dewi Lestari,Utara,4218.31,8,Clothing,254.05,301.66,Returning,0.24,Cash,Online
+1950,04/09/2023,Dewi Lestari,Utara,4944.09,12,Electronics,211.34,251.50,Returning,0.00,Cash,Online
+1951,06/03/2023,Dewi Lestari,Utara,697.99,12,Clothing,427.09,475.42,New,0.03,Cash,Retail
+1952,17/12/2023,Ahmad Fauzan,Selatan,8333.60,12,Furniture,337.64,353.62,Returning,0.04,Credit Card,Retail
+1953,19/11/2023,Budi Santoso,Timur,9994.27,7,Electronics,264.89,309.92,Returning,0.11,Bank Transfer,Online
+1954,07/06/2023,Siti Aisyah,Timur,8873.73,12,Electronics,323.23,358.93,New,0.10,Credit Card,Online
+1955,17/03/2023,Budi Santoso,Barat,4047.88,12,Electronics,239.85,262.01,New,0.09,Bank Transfer,Retail
+1956,08/03/2023,Siti Aisyah,Selatan,4293.82,8,Electronics,371.83,411.20,Returning,0.28,Credit Card,Retail
+1957,15/11/2023,Ahmad Fauzan,Selatan,7848.29,12,Food,481.14,509.52,New,0.24,Credit Card,Retail
+1958,21/04/2023,Budi Santoso,Selatan,3463.40,12,Electronics,459.38,491.03,New,0.23,Bank Transfer,Online
+1959,02/06/2023,Budi Santoso,Barat,2312.61,12,Clothing,518.33,550.09,New,0.23,Bank Transfer,Online
+1960,23/11/2023,Siti Aisyah,Timur,3416.08,22,Furniture,131.39,201.95,Returning,0.00,Credit Card,Online
+1961,31/01/2023,Ahmad Fauzan,Utara,6418.96,46,Furniture,142.17,269.42,Returning,0.04,Credit Card,Retail
+1962,26/08/2023,Rizky Pratama,Selatan,5538.23,20,Food,102.40,227.65,Returning,0.02,Bank Transfer,Retail
+1963,28/12/2023,Dewi Lestari,Selatan,3846.92,12,Food,153.73,280.74,Returning,0.07,Bank Transfer,Online
+1964,25/04/2023,Budi Santoso,Utara,4974.71,50,Food,296.60,364.33,Returning,0.13,Cash,Retail
+1965,13/11/2023,Budi Santoso,Selatan,3009.39,12,Clothing,162.23,228.41,New,0.09,Cash,Online
+1966,01/01/2023,Ahmad Fauzan,Timur,5454.61,42,Electronics,259.64,333.21,New,0.26,Bank Transfer,Retail
+1967,31/08/2023,Rizky Pratama,Selatan,4913.15,16,Clothing,123.29,227.76,Returning,0.16,Credit Card,Online
+1968,14/07/2023,Siti Aisyah,Barat,982.12,40,Clothing,273.65,376.08,Returning,0.16,Cash,Retail
+1969,03/03/2023,Dewi Lestari,Barat,1832.06,44,Furniture,270.27,362.80,New,0.17,Credit Card,Retail
+1970,28/12/2023,Budi Santoso,Selatan,5341.75,18,Food,391.86,448.13,Returning,0.00,Cash,Retail
+1971,20/07/2023,Budi Santoso,Utara,1650.06,18,Electronics,288.60,337.27,New,0.03,Cash,Retail
+1972,06/07/2023,Dewi Lestari,Selatan,9979.34,18,Furniture,391.05,461.23,Returning,0.03,Credit Card,Retail
+1973,23/01/2023,Dewi Lestari,Utara,4335.25,18,Clothing,216.68,268.77,Returning,0.06,Cash,Online
+1974,13/11/2023,Dewi Lestari,Selatan,9112.50,18,Furniture,197.78,255.59,New,0.13,Credit Card,Online
+1975,24/08/2023,Siti Aisyah,Timur,3570.36,12,Furniture,100.00,200.00,New,0.12,Cash,Retail
+1976,19/01/2023,Dewi Lestari,Barat,7270.06,18,Clothing,264.80,307.64,Returning,0.25,Cash,Retail
+1977,04/05/2023,Rizky Pratama,Timur,7973.30,18,Food,178.82,222.00,New,0.25,Cash,Retail
+1978,28/06/2023,Budi Santoso,Barat,5524.54,17,Food,242.92,317.95,Returning,0.22,Bank Transfer,Retail
+1979,09/05/2023,Ahmad Fauzan,Utara,8205.73,18,Food,245.66,287.08,Returning,0.28,Credit Card,Retail
+1980,08/06/2023,Ahmad Fauzan,Selatan,4166.45,7,Clothing,247.81,271.87,Returning,0.00,Bank Transfer,Online
+1981,29/06/2023,Siti Aisyah,Barat,3650.83,12,Food,515.74,534.09,Returning,0.03,Bank Transfer,Retail
+1982,25/02/2023,Budi Santoso,Utara,7056.88,12,Food,434.63,457.54,Returning,0.01,Cash,Online
+1983,31/05/2023,Ahmad Fauzan,Selatan,1425.54,12,Food,569.40,615.97,Returning,0.09,Cash,Online
+1984,25/07/2023,Siti Aisyah,Timur,5632.50,12,Clothing,299.45,318.37,New,0.07,Credit Card,Online
+1985,09/04/2023,Siti Aisyah,Selatan,8447.10,12,Clothing,458.65,484.28,Returning,0.07,Cash,Online
+1986,11/12/2023,Siti Aisyah,Timur,4758.25,9,Clothing,361.64,394.96,New,0.27,Cash,Retail
+1987,22/10/2023,Dewi Lestari,Selatan,3026.50,12,Furniture,240.14,257.97,New,0.15,Cash,Retail
+1988,10/09/2023,Rizky Pratama,Utara,1794.55,10,Food,280.33,316.65,New,0.15,Credit Card,Retail
+1989,15/04/2023,Dewi Lestari,Utara,1494.19,12,Clothing,301.90,350.48,Returning,0.24,Cash,Online
+1990,06/05/2023,Budi Santoso,Selatan,1520.22,21,Food,199.38,272.01,New,0.00,Cash,Online
+1991,23/09/2023,Rizky Pratama,Selatan,8173.01,21,Electronics,184.06,269.57,New,0.03,Credit Card,Online
+1992,06/06/2023,Ahmad Fauzan,Barat,6172.15,13,Clothing,279.08,347.39,Returning,0.04,Credit Card,Retail
+1993,12/03/2023,Rizky Pratama,Utara,1280.96,22,Furniture,244.82,344.81,New,0.13,Bank Transfer,Online
+1994,03/10/2023,Ahmad Fauzan,Utara,7824.19,12,Clothing,221.65,309.72,Returning,0.08,Bank Transfer,Retail
+1995,31/01/2023,Dewi Lestari,Barat,993.58,29,Electronics,158.53,229.42,New,0.08,Credit Card,Retail
+1996,13/12/2023,Ahmad Fauzan,Utara,5104.88,38,Clothing,156.20,268.44,New,0.28,Credit Card,Online
+1997,27/04/2023,Dewi Lestari,Selatan,5057.64,37,Food,159.46,227.94,Returning,0.19,Bank Transfer,Retail
+1998,29/01/2023,Budi Santoso,Selatan,825.62,16,Electronics,144.35,218.58,New,0.26,Bank Transfer,Online
+1999,02/04/2023,Ahmad Fauzan,Timur,7225.45,19,Furniture,282.31,387.79,Returning,0.27,Cash,Online
