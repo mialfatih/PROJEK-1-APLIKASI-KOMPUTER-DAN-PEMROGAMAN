@@ -1,12 +1,12 @@
 # TB1 — Logika Excel (IF, Nested IF, AND, OR)
 
-## 🎯 Tujuan
+## Tujuan
 Mengolah data penjualan dan mengkategorikan hasil dengan fungsi:
 - `IF`
 - `AND`, `OR`
 - Nested `IF`
 
-## 📌 Langkah
+## Langkah
 
 ### 1. Load CSV
 
